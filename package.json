@@ -1,0 +1,19 @@
+{
+  "name": "thesucesswaynote",
+  "version": "1.0.0",
+  "description": "The Success Way Note",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maithanhduyan/thesucesswaynote.git"
+  },
+  "author": "Mai Thành Duy An",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/maithanhduyan/thesucesswaynote/issues"
+  },
+  "homepage": "https://github.com/maithanhduyan/thesucesswaynote#readme"
+}
