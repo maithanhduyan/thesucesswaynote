@@ -1,4 +1,4 @@
-# 7 dấu hiệu cho thấy bạn sẽ thành công trong tương lai
+# 7 Dấu Hiệu Cho Thấy Bạn Sẽ Thành Công Trong Tương Lai
 
 1 - Luôn tự nhận trách nhiệm về phía mình </br>
 2 - Có nhiều thói quen tốt </br>
