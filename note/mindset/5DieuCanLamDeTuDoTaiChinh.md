@@ -1,6 +1,7 @@
 # 5 Điều Cần Làm Để Tự Do Tài Chính
+#### Trước 30 tuổi
 
-1. Đọc những sách tư duy về tài chính để rèn luyện tư duy  </br>
+1. Đọc những sách tư duy về tài chính để rèn luyện tư duy.  </br>
     VD: Sách Cha Giàu (Dạy con làm giàu), Think and Grow Rich  </br>
 2. Tìm ra ngành mình vừa thích vừa mạnh  </br>
 3. Làm việc để nâng cao kỹ năng </br>
