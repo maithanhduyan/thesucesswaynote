@@ -24,7 +24,7 @@ The Success Way Note
 - [John Neff](/note/quotes/John%20Neff.md)
 - [Carl Icahn](/note/quotes/Carl%20Icahn.md)
 - [Warren Buffett](/note/quotes/Warren%20Buffett.md)
-
+- [Benjamin Franklin](/note/quotes/Benjamin%20Franklin.md)
 </br>
 
 - **Buy me a coffee in Dogecoin : DDYnGiWgpSm1cmi8imksqHY8aLX7RtzVEa** <br>
