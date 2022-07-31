@@ -2,6 +2,7 @@
 The Success Way Note
 
 ## Con Đường Thành Công - Những Nguyên Tắc Trong Tài Chính
+- [8 Bài Học Làm Giàu Hiệu Quả Từ Robert Kiyosaki](/note/mindset/8BaiHocLamGiauHieuQuaCuaRobertKiosaky.md)
 - [5 Điều Cần Làm Để Tự Do Tài Chính](/note/mindset/5DieuCanLamDeTuDoTaiChinh.md)
 - [7 Dấu Hiệu Cho Thấy Bạn Sẽ Thành Công Trong Tương Lai](/note/mindset/7TinHieuThanhCong.md)
 - [10 Nguyên Tắc Đầu Tư - Hieu.tv](/note/mindset/10NguyenTacDauTu.md)
@@ -29,4 +30,4 @@ The Success Way Note
 
 - **Buy me a coffee in Dogecoin : DDYnGiWgpSm1cmi8imksqHY8aLX7RtzVEa** <br>
 [DOGECOIN WALLET QR](https://dogechain.info/address/DDYnGiWgpSm1cmi8imksqHY8aLX7RtzVEa)
-![Doge: DDYnGiWgpSm1cmi8imksqHY8aLX7RtzVEa](/images/wallet/DOGE-DDYnGiWgpSm1cmi8imksqHY8aLX7RtzVEa.png "Title")
+![Doge](/images/wallet/DOGE-DDYnGiWgpSm1cmi8imksqHY8aLX7RtzVEa.png "Title")
