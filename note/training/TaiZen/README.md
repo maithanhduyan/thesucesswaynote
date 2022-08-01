@@ -12,3 +12,9 @@
 [Sự Khó Khăn Của Em Có Gì Đặc Biệt Hay Riêng Tư Không? Chắc Chắn Không Có! - By Tai Duong](https://youtu.be/WRbyEnxM80c)
 
 [Em Nên Nghe Lời Nói Của Một Người Mà Chưa Đạt Mức Tài Chính Em Muốn Không? - By Tai Duong](https://youtu.be/61rvCkhhqwk)
+
+### 4 Nguyên Tắc Làm Người Đàn Ông Mạnh Mẽ
+1. *Không chinh phục thằng nào hết trơn*.
+2. *Không xin phép người ta trước khi mình làm việc gì*.
+3. *Mình làm sai lầm hay thành công không có chờ sự chấp nhận của thằng khác*.
+4. *Không để lời nói hay hành động của thằng khác ảnh hưởng cảm xúc của mình*.
