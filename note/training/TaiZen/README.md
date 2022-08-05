@@ -1,7 +1,9 @@
 # [Tai Zen]()
 
 [Twitter: @HeyTaiZen](https://twitter.com/HeyTaiZen)
+
 [Facebook: /PhuongPhapThanhCong](https://www.facebook.com/PhuongPhapThanhCong)
+
 [phuongphapthanhcong.com](https://phuongphapthanhcong.com/)
 
 ### Rèn Luyện Tư Duy Tích Cực của Anh Tài
