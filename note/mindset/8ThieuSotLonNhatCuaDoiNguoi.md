@@ -1,4 +1,4 @@
-# Trí Làm Nên Tầm, Khi Tầm Tới Thì Tiền Sẽ Tới - 8 Thiếu Xót Đời Người Để Thành Công
+# Trí Làm Nên Tầm, Khi Tầm Tới Thì Tiền Sẽ Tới - 8 Thiếu Xót Đời Vượt Qua Được Ắt Là Người Thành Công!
 
 1. Tài Không Đủ Thì Tính Toán Nhiều.
 2. Hiểu Không Đủ Thì Suy Nghĩ Lo Lắng Nhiều.
@@ -6,8 +6,8 @@
 4. Tin Tưởng Không Đủ Thì Nói Nhiều.
 5. Dũng Không Đủ Thì Làm Nhiều.
 6. Nhìn Không Thấu Thì Xem Xét Nhiều.
-7. Lý Không Đủ Thì Tranh Luận Nhiều. 
-8. Tình Cảm Không Đủ Thì Lễ Nghi Nhiều. 
+7. Lý Không Đủ Thì Tranh Luận Nhiều.
+8. Tình Cảm Không Đủ Thì Lễ Nghi Nhiều.
 
 ### 1. Tài Không Đủ Thì Tính Toán Nhiều.
 Mỗi khi có sự việc xảy ra mà chúng ta phải hao tâm tổn tứ suy nghĩ, cân nhắc, tính toán... có nghĩa kiến thức của chúng ta chưa đủ, năng lực của chúng ta còn hạn hẹp. 
@@ -31,6 +31,7 @@ Người càng không có thực lực, dễ dàng nổi giận thì tính khí 
 Người không có thực lực, dĩ nhiên càng dễ gặp thất bại. Trái lại, những người có tấm lòng bao dung, sự điềm đạm, bình tĩnh, khi gặp vấn đề khó khăn sẽ bình thản đón nhận và tìm cách giải quyết cho tới khi đạt được kết quả mong cầu. Những người như vậy sẽ nhận được lòng kính trọng chân thành từ người khác. 
 
 ### 4. Tin Tưởng Không Đủ Thì Nói Nhiều.
+
 Cổ nhân từng nói:
 
 Người có uy đức thì ít lời, người gian giảo mới dùng nhiều lời để nói.
