@@ -10,3 +10,4 @@
 9. *Bạn không thể tạo 1 đứa trẻ ra đời trong một tháng bằng cách làm chín cô gái có bầu.*
 10. *Điều tốt nhất với chúng tôi là khi một công ty tuyệt vời vướng phải rắc rối tạm thời … Chúng tôi muốn mua những công ty như thế này khi chúng ở trên bàn mổ*
 11. *Quy tắc số 1 là không bao giờ để mất tiền. Quy tắc số 2 không bao giờ quên Quy tắc số 1*
+12. *If you cannot control your emotions, you cannot control your money.*
