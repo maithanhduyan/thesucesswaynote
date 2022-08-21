@@ -20,3 +20,10 @@
 2. *Không xin phép người ta trước khi mình làm việc gì*.
 3. *Mình làm sai lầm hay thành công không có chờ sự chấp nhận của thằng khác*.
 4. *Không để lời nói hay hành động của thằng khác ảnh hưởng cảm xúc của mình*.
+
+
+### 2 tài năng cần có trong trading
+1. Biết cá bao nhiêu
+2. Biết chừng nào tăng/giảm số lượng cá lên.
+
+### Khi mình quản lý cảm xúc không được thì tốt nhất hãy im lặng.
