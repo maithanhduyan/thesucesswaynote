@@ -1,0 +1,4 @@
+# [Tâm thái tốt có sức mạnh hơn 100 loại trí tuệ](https://www.ntdvn.net/van-hoa/tam-thai-tot-co-suc-manh-hon-100-loai-tri-tue-167969.html)
+Đại văn hào Dickens từng nói: “Có tâm thái tốt thì có sức mạnh hơn cả 100 loại trí tuệ”. Câu danh ngôn chí lý này đã nói rõ một chân lý rằng, tâm thái thế nào thì sẽ có cuộc đời thế ấy.
+
+Có triết gia nói: “Trên thân mỗi người đều có một Pháp bảo nhìn không thấy, một mặt của nó viết dòng chữ ‘tâm thái tích cực’, còn mặt kia viết dòng chữ ‘tâm thái tiêu cực’. Tâm thái tích cực có thể khiến bạn leo lên đỉnh cao cuộc đời, còn tâm thái tiêu cực có thể khiến bạn cả đời nghèo khổ và bất hạnh”.

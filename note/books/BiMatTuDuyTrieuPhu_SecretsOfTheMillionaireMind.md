@@ -74,3 +74,6 @@ ngăn cản họ.**
 triển. 
 Người nghèo nghĩ họ đã biết
 tất cả.**
+
+***Người giàu thích nghe lời khuyên từ những người giàu hơn họ.
+Người nghèo thích nghe lời khuyên từ những người nghèo như họ.***
