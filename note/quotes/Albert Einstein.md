@@ -1,0 +1,1 @@
+1. “The one who follows the crowd will usually go no further than the crowd. Those who walk alone are likely to find themselves in places no one has ever been before.”
