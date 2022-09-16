@@ -39,3 +39,19 @@
 6. Hãy thật sự bảo vệ sự tập trung của bạn - protect your focus
 - Luôn quyết tâm nhẹ nhàng để bảo vệ sự tập trung cao độ của mình
 - Khi ai đó mang lại cho bạn vấn đề. Bạn sẽ nói: "Anh hãy tự giải quyết nó đi đó là cơ hội để anh phát triển nó, đừng đặt nó lên vai của tôi". Khi bạn ở sân bay hay nơi nào có có TV, âm thanh, báo chí, tin tức gây ô nhiễm những suy nghĩ của bạn. Bạn có thể đeo tai nghe, để nghe sách nói vể kinh doanh, về sáng tạo, về tình yêu, hay những con người vĩ đại trên thế giới này họ đang làm.
+
+
+# 5 Chiến lược chiến thắng sự trì hoãn
+[![Video](https://img.youtube.com/vi/25FpiYtSyC4/0.jpg)](https://www.youtube.com/watch?v=25FpiYtSyC4)
+1. Sử dụng bản tuyên ngôn mục tiêu - lập bảng giấc mơ
+    - Bạn cần phải đọc mục tiêu mỗi buổi sáng của mỗi ngày
+    - Lập bảng mục tiêu hoặc giấc mơ
+    - Tiềm thức quyết định 90%  
+    - 
+2.  
+
+3. 
+
+4. 
+
+5.
