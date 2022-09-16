@@ -47,11 +47,23 @@
     - Bạn cần phải đọc mục tiêu mỗi buổi sáng của mỗi ngày
     - Lập bảng mục tiêu hoặc giấc mơ
     - Tiềm thức quyết định 90%  
-    - 
-2.  
+    - 5% cuộc sống quyết định bởi ý thức
+2.  Lên lịch trình hành động cụ thể trong 30 ngày để loại bỏ trì hoãn. 
+- Chọn ra 1 việc thường hay trì hoãn
+- Liên tục viết ra những việc thường trì hoãn.
+- Tái lập trình sự trì hoãn.
+- Càng làm nhiều càng có năng lượng, tự tin làm bất cứ điều gì
+3. Tập thể dục 2 lần mỗi ngày
+- Buổi sáng
+- Buổi chiều
+Giúp mọi người có thể làm bất cứ việc gì.
+Có sự tập trung, trí nhớ tốt hơn
 
-3. 
-
-4. 
-
-5.
+4. Tập ra 1 môi trường tập trung cao độ, không có bất cứ sự xao lãng, phân tâm nào cả. 
+- Tại nơi làm việc tránh những cái cớ gây trì hoãn(facebook, tin nhắn ...)
+- Steve Jobs sơn 4 bức tường màu trắng ở công ty Next. Jobs nói: "Tôi muốn mọi thứ phải rõ ràng và tránh xa sự xao lãng để hoàn thành những mục tiêu lớn trong cuộc đời của tôi" 
+5. Loại bỏ những nhân tố tự phá hủy.
+- Bạn không biết những gì bạn không biết.
+- Tư duy tiêu cực tự phá hủy sự thành công của bạn. Sự sợ hãy.
+- Lý do chính là nỗi sợ sẽ chiếm lĩnh tư duy của bạn.
+- Nỗi sợ thường ko có thật. Nên làm những việc bạn sợ mỗi ngày. 
