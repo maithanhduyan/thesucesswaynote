@@ -51,7 +51,7 @@
 2.  Lên lịch trình hành động cụ thể trong 30 ngày để loại bỏ trì hoãn. 
 - Chọn ra 1 việc thường hay trì hoãn
 - Liên tục viết ra những việc thường trì hoãn.
-- Tái lập trình sự trì hoãn.
+- Tái lập trình não bộ vượt qua sự trì hoãn.
 - Càng làm nhiều càng có năng lượng, tự tin làm bất cứ điều gì
 3. Tập thể dục 2 lần mỗi ngày
 - Buổi sáng
