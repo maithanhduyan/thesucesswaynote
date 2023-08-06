@@ -1,0 +1,139 @@
+<mxfile host="app.diagrams.net" modified="2023-08-02T06:13:35.650Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="tdiISpYM5fkBCV1-Kaqu" version="21.6.6" type="device">
+  <diagram name="Page-1" id="6SqH20HjMJCXP2kpy6PP">
+    <mxGraphModel dx="1050" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ibyiePvbInEYymun5SZx-1" value="Phần #1&lt;br&gt;Giới Thiệu" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#3C78D8;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="5" y="140" width="120" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="ibyiePvbInEYymun5SZx-2" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#10af00;" vertex="1" parent="1">
+          <mxGeometry x="108" y="140" width="40" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="ibyiePvbInEYymun5SZx-3" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#cc0001;" vertex="1" parent="1">
+          <mxGeometry x="128" y="140" width="40" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="ibyiePvbInEYymun5SZx-4" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#9A00FF;" vertex="1" parent="1">
+          <mxGeometry x="148" y="140" width="40" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="ibyiePvbInEYymun5SZx-5" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Phần #2&lt;br&gt;Phương Pháp &lt;br&gt;Kiếm Tiền &lt;br&gt;Mã Hóa &lt;br&gt;Có Khả Năng &lt;br&gt;Làm Lời&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#3C78D8;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="171" y="140" width="112" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="ibyiePvbInEYymun5SZx-12" value="Phần #3 Các Phương Pháp &lt;br&gt;Đầu Tư &lt;br&gt;Trong Thị &lt;br&gt;Trường Tiền Mã Hóa" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#3C78D8;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="266" y="140" width="112" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="ibyiePvbInEYymun5SZx-13" value="Phần #4 &lt;br&gt;Phương Pháp &lt;br&gt;Mua Vào &lt;br&gt;Tiền Mã Hóa" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#3C78D8;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="360" y="140" width="112" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="ibyiePvbInEYymun5SZx-14" value="Phần #5 &lt;br&gt;Phương Pháp &lt;br&gt;Cá Đúng Số &lt;br&gt;Lượng Trong &lt;br&gt;Thị Trường &lt;br&gt;Tiền Mã Hóa" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#3C78D8;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="454" y="140" width="112" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="ibyiePvbInEYymun5SZx-15" value="Phần #6 &lt;br&gt;Phương Pháp &lt;br&gt;Bán Ra &lt;br&gt;Tiền Mã Hóa" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#3C78D8;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="548" y="140" width="112" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="ibyiePvbInEYymun5SZx-16" value="Phần #7 &lt;br&gt;Phương Pháp &lt;br&gt;Tự Kiểm Soát&lt;br&gt;&amp;nbsp;Danh Mục &lt;br&gt;Đầu Tư Tiền Mã Hóa" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#3C78D8;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="642" y="140" width="112" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="ibyiePvbInEYymun5SZx-17" value="Phần #8 &lt;br&gt;Phương Pháp &lt;br&gt;Tính Thuế Và Chuyển Tài Sản Cho Đời Sau" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#3C78D8;fontColor=#ffffff;size=20;" vertex="1" parent="1">
+          <mxGeometry x="736" y="140" width="112" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="ibyiePvbInEYymun5SZx-19" value="Phần #1: &lt;br&gt;Giới Thiệu" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#9A00FF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="168" y="320" width="112" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="ibyiePvbInEYymun5SZx-20" value="Phần #2: &lt;br&gt;Giới Thiệu &lt;br&gt;Phân Tích &lt;br&gt;Kỹ Thuật" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#9A00FF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="268" y="320" width="112" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="ibyiePvbInEYymun5SZx-21" value="Phần #3: &lt;br&gt;Thuộc Tính Và &lt;br&gt;Điều Khiển &lt;br&gt;Hướng Biểu Đồ" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#9A00FF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="368" y="320" width="112" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="ibyiePvbInEYymun5SZx-22" value="Phần #4: &lt;br&gt;Biểu Đồ Giá &lt;br&gt;&amp;amp; Danh Sách &lt;br&gt;Theo Dõi" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#9A00FF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="468" y="320" width="112" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="ibyiePvbInEYymun5SZx-23" value="Phần #5: &lt;br&gt;Dụng Cụ &lt;br&gt;Để Ghi Và &lt;br&gt;Giải Nghĩa &lt;br&gt;Trên Biểu Đồ Giá" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#9A00FF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="567" y="320" width="112" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="ibyiePvbInEYymun5SZx-24" value="Phần #6: &lt;br&gt;Dụng Cụ&lt;br&gt;&amp;nbsp;Đo Giá &lt;br&gt;Và Thời Gian" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#9A00FF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="667" y="320" width="112" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="ibyiePvbInEYymun5SZx-25" value="Phần #7: &lt;br&gt;Dụng Cụ &lt;br&gt;Phân Tích Giá" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#9A00FF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="767" y="320" width="112" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="ibyiePvbInEYymun5SZx-26" value="Phần #8: &lt;br&gt;Chìa Khóa &lt;br&gt;Thành Công" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#9A00FF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="867" y="320" width="112" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="ibyiePvbInEYymun5SZx-27" value="Phần #1: &lt;br&gt;Giới Thiệu" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#cc0001;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="138" y="490" width="130" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="ibyiePvbInEYymun5SZx-28" value="Phần #2: &lt;br&gt;Bảo Mật &lt;br&gt;Máy Tính Cá Nhân" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#cc0001;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="257" y="490" width="130" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="ibyiePvbInEYymun5SZx-29" value="Phần #3: &lt;br&gt;Bảo Mật &lt;br&gt;Ví Tiền Mã Hóa" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#cc0001;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="376" y="490" width="130" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="ibyiePvbInEYymun5SZx-30" value="Phần #4: &lt;br&gt;Sàn Giao Dịch &lt;br&gt;Và &lt;br&gt;Phần Mềm Bảo Mật" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#cc0001;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="494" y="490" width="130" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="ibyiePvbInEYymun5SZx-31" value="Phần #5: &lt;br&gt;Các Loại Lệnh &lt;br&gt;Tiền Mã Hóa" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#cc0001;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="613" y="490" width="130" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="ibyiePvbInEYymun5SZx-32" value="Phần #1: &lt;br style=&quot;font-size: 11px;&quot;&gt;Giới Thiệu - Tụi Anh Là Ai &lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;amp; Tại Sao Em Nên Lắng Nghe Tụi Anh" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#10af00;fontColor=#FFFFFF;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="13" y="670" width="112" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="ibyiePvbInEYymun5SZx-33" value="Phần #2: &lt;br style=&quot;font-size: 11px;&quot;&gt;Các Loại Tiền Vật Lý &lt;br style=&quot;font-size: 11px;&quot;&gt;Trong Quá Khứ" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#10af00;fontColor=#FFFFFF;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="111" y="670" width="112" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="ibyiePvbInEYymun5SZx-34" value="Phần #3: &lt;br&gt;Tiền Giấy&lt;br&gt;&amp;nbsp;&amp;amp; Tiền Nhựa &lt;br&gt;Trong Hiện Tại" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#10af00;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="210" y="670" width="112" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="ibyiePvbInEYymun5SZx-35" value="Phần #4: &lt;br&gt;Sổ Cái Bitcoin &lt;br&gt;Hoạt Động &lt;br&gt;Như Thế Nào?" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#10af00;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="308" y="670" width="112" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="ibyiePvbInEYymun5SZx-36" value="Phần #5: &lt;br&gt;Chuỗi Khối &lt;br&gt;Tiền Mã Hóa &lt;br&gt;Là Gì?" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#10af00;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="407" y="670" width="112" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="ibyiePvbInEYymun5SZx-37" value="Phần #6: &lt;br&gt;Tương Lai &lt;br&gt;Của &lt;br&gt;Tiền Kỹ Thuật Số" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#10af00;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="505" y="670" width="112" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="ibyiePvbInEYymun5SZx-38" value="Phần #7: &lt;br&gt;Các Vấn Đề &lt;br&gt;Trong Bitcoin &lt;br&gt;Và Tiền Mã Hóa" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#10af00;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="603" y="670" width="112" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="ibyiePvbInEYymun5SZx-39" value="Phần #8: &lt;br&gt;Khả Năng &lt;br&gt;Thay Đổi &lt;br&gt;Cuộc Đời &lt;br&gt;Từ Đầu Tư &lt;br&gt;Tiền Mã Hóa" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#10af00;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="702" y="670" width="112" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="ibyiePvbInEYymun5SZx-40" value="Phần #9: &lt;br&gt;6 Bộ Phận Chính Để Thành Công Trong Đầu Tư Tiền Mã Hóa" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#10af00;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="800" y="670" width="112" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="ibyiePvbInEYymun5SZx-41" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.03;entryY=0.026;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ibyiePvbInEYymun5SZx-2" target="ibyiePvbInEYymun5SZx-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="550" as="sourcePoint" />
+            <mxPoint x="40" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ibyiePvbInEYymun5SZx-42" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.004;entryY=-0.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ibyiePvbInEYymun5SZx-4" target="ibyiePvbInEYymun5SZx-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="128" y="233" as="sourcePoint" />
+            <mxPoint x="150" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ibyiePvbInEYymun5SZx-43" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=-0.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ibyiePvbInEYymun5SZx-3" target="ibyiePvbInEYymun5SZx-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="111" y="320" as="sourcePoint" />
+            <mxPoint x="133" y="437" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ibyiePvbInEYymun5SZx-45" value="Công Thức Đầu Tư Tiền Mã Hóa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=32;fontColor=#3C78D8;" vertex="1" parent="1">
+          <mxGeometry x="148" y="100" width="610" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ibyiePvbInEYymun5SZx-46" value="Phân Tích Kỹ Thuật Tiền Mã Hóa TàiFu" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=22;fontColor=#9A00FF;" vertex="1" parent="1">
+          <mxGeometry x="269" y="288" width="610" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ibyiePvbInEYymun5SZx-47" value="Lưu Trữ &amp;amp; Bảo Mật Tiền Mã Hóa TaiFu" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=22;fontColor=#CC0001;" vertex="1" parent="1">
+          <mxGeometry x="157" y="458" width="610" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ibyiePvbInEYymun5SZx-48" value="Đầu Tư Tiền Mã Hóa, Chuỗi Khối, Bitcoin Là Gì?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=22;fontColor=#10AF00;" vertex="1" parent="1">
+          <mxGeometry x="124" y="635" width="610" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
