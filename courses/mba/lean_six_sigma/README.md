@@ -42,12 +42,12 @@ Khách Hàng Có Nhu Cầu Cơ Bản Gì Về Sản Phẩm:
 - RẺ
 
 --------------------------------------------------------
-Từ khóa:
-- Tinh Gọn (Lean Enterprise)
-- Tốc Độ ()
-- Thích Nghi
-- Linh Hoạt và Kỷ Luật
-- Sáng Tạo và Chi Phí Thấp (Value Innovation - Sáng Tạo Có Giá Trị)
+5 Từ khóa Doanh nghiệp SMEs cần quan tâm:
+1- Tinh Gọn/Lean Enterprise
+2- Tốc Độ
+3- Thích Nghi
+4- Linh Hoạt và Kỷ Luật
+5- Sáng Tạo Có Giá Trị/Value Innovation (Sáng Tạo và Chi Phí Thấp)
 
 
 
