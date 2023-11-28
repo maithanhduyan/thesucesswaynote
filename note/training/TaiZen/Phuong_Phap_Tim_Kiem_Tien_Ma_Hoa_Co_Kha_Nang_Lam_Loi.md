@@ -36,11 +36,11 @@
 34. Bảng Mẫu Chấm Điểm
 35. Thực Hành Phương Pháp VC MAN
 36. Chìa Khóa Để Thành Công
-37. Em Làm Điều Tra Làm Gì?
+37. Bạn Làm Điều Tra Làm Gì?
 38. Hãy Cẩn Thận Với Những Tiền Mã Hóa Lừa Đảo
  
  
-##### Chứng Khoán 
+##### Tuân thủ theo luật Chứng Khoán 
 1. Phải làm đúng theo Ủy Ban Chứng Khoán & Giao Dịch Hoa Kỳ
 2. Vụ Kiện giữa SEC và Howey ở Tòa Án Tối Cao Hoa Kỳ năm 1946 là một trường hợp giúp xác định thế nào là "hợp đồng đầu tư". Hợp đồng đầu tư là 1 loại chứng khoán.
 3. Các loại chứng khoán khác bao gồm cổ phiếu & trái phiếu.
@@ -49,4 +49,3 @@
     b. Em có kỳ vọng làm lời từ tài khoản đầu tư này không?
     c. Tiền có đem về cho một "doanh nghiệp chung" hay dự án không?
     d. Các nỗ lực để làm dự án có lời nằm ngoài sự kiểm soát của bạn không?
- 

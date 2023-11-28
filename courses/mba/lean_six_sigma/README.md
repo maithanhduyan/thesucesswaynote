@@ -30,8 +30,25 @@ Fast Learning
 3.Hệ thống
 4.Quy trình
 5.Vận hành
------------------------------
+--------------------------------------------------------
 1.Tầm nhìn - Vision 
 2.Sứ mệnh - Mission
 3.Giá trị cốt lõi - Core value
-----------------------------
+--------------------------------------------------------
+
+Khách Hàng Có Nhu Cầu Cơ Bản Gì Về Sản Phẩm:
+- NGON
+- BỔ
+- RẺ
+
+--------------------------------------------------------
+Từ khóa:
+- Tinh Gọn (Lean Enterprise)
+- Tốc Độ ()
+- Thích Nghi
+- Linh Hoạt và Kỷ Luật
+- Sáng Tạo và Chi Phí Thấp (Value Innovation - Sáng Tạo Có Giá Trị)
+
+
+
+
