@@ -20,6 +20,7 @@
 2. *Không xin phép người ta trước khi mình làm việc gì*.
 3. *Mình làm sai lầm hay thành công không có chờ sự chấp nhận của thằng khác*.
 4. *Không để lời nói hay hành động của thằng khác ảnh hưởng cảm xúc của mình*.
+5. *Tìm hiểu thông tin kỹ để nói lời nói cho chính xác.*
 
 
 ### 2 tài năng cần có trong trading
