@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <title>Phát âm tiếng Trung</title>
+    <style>
+        .pagination {
+            margin: 20px 0;
+            text-align: center;
+        }
+        .pagination button {
+            margin: 0 5px;
+        }
+    </style>
+</head>
+<body>
+    <label for="voiceSelect">Chọn giọng:</label>
+    <select id="voiceSelect">
+        <option value="male">Nam</option>
+        <option value="female">Nữ</option>
+    </select>
+
+    <div class="pagination" id="pagination"></div>
+    <div id="totalWords"></div>
+    <div id="wordsContainer"></div>
+    <div class="pagination" id="pagination"></div>
+
+    <script>
+        const words = [
+            "人 rén - người", "天 tiān - trời", "大 dà - lớn", "小 xiǎo - nhỏ",
+            "一 yī - một", "二 èr - hai", "三 sān - ba", "四 sì - bốn",
+            "五 wǔ - năm", "六 liù - sáu", "七 qī - bảy", "八 bā - tám",
+            "九 jiǔ - chín", "十 shí - mười", "百 bǎi - trăm", "千 qiān - nghìn",
+            "万 wàn - vạn", "上 shàng - trên", "下 xià - dưới", "中 zhōng - giữa",
+            "月 yuè - mặt trăng", "日 rì - ngày", "年 nián - năm", "时 shí - giờ",
+            "分 fēn - phút", "秒 miǎo - giây", "明 míng - sáng", "晚 wǎn - tối",
+            "早 zǎo - sớm", "点 diǎn - điểm", "分钟 fēnzhōng - phút",
+            "小时 xiǎoshí - giờ", "天气 tiānqì - thời tiết", "春 chūn - xuân",
+            "夏 xià - hạ", "秋 qiū - thu", "冬 dōng - đông", "阳 yáng - dương",
+            "阴 yīn - âm", "冷 lěng - lạnh", "热 rè - nóng", "水 shuǐ - nước",
+            "火 huǒ - lửa", "山 shān - núi", "河 hé - sông", "海 hǎi - biển",
+            "鱼 yú - cá", "鸟 niǎo - chim", "花 huā - hoa", "树 shù - cây", "草 cǎo - cỏ",
+            "车 chē - xe", "路 lù - đường", "门 mén - cửa", "书 shū - sách",
+            "笔 bǐ - bút", "桌 zhuō - bàn", "椅 yǐ - ghế", "床 chuáng - giường",
+            "窗 chuāng - cửa sổ", "房 fáng - nhà", "家 jiā - gia đình", "猫 māo - mèo",
+            "狗 gǒu - chó", "牛 niú - bò", "羊 yáng - dê", "马 mǎ - ngựa",
+            "鸡 jī - gà", "鸭 yā - vịt", "猪 zhū - heo", "鱼 yú - cá",
+            "鸟 niǎo - chim", "花 huā - hoa", "草 cǎo - cỏ", "树 shù - cây",
+            "水 shuǐ - nước", "火 huǒ - lửa", "山 shān - núi", "河 hé - sông",
+            "海 hǎi - biển", "天 tiān - trời", "地 dì - đất", "风 fēng - gió",
+            "雨 yǔ - mưa", "雪 xuě - tuyết", "雷 léi - sấm", "电 diàn - điện",
+            "光 guāng - ánh sáng", "音 yīn - âm thanh", "色 sè - màu sắc",
+            "黑 hēi - đen", "白 bái - trắng", "红 hóng - đỏ", "蓝 lán - xanh dương",
+            "绿 lǜ - xanh lá", "黄 huáng - vàng", "紫 zǐ - tím", "橙 chéng - cam",
+            "粉 fěn - hồng", "灰 huī - xám", "棕 zōng - nâu", "金 jīn - vàng kim",
+            "银 yín - bạc", "铜 tóng - đồng", "铁 tiě - sắt", "木 mù - gỗ",
+            "石 shí - đá", "土 tǔ - đất", "气 qì - khí", "水 shuǐ - nước",
+            "火 huǒ - lửa", "风 fēng - gió", "雨 yǔ - mưa", "雪 xuě - tuyết",
+            "雷 léi - sấm", "电 diàn - điện", "光 guāng - ánh sáng", "音 yīn - âm thanh",
+            "色 sè - màu sắc", "黑 hēi - đen", "白 bái - trắng", "红 hóng - đỏ",
+            "蓝 lán - xanh dương", "绿 lǜ - xanh lá", "黄 huáng - vàng", "紫 zǐ - tím",
+            "橙 chéng - cam", "粉 fěn - hồng", "灰 huī - xám", "棕 zōng - nâu",
+            "金 jīn - vàng kim", "银 yín - bạc", "铜 tóng - đồng", "铁 tiě - sắt",
+            "木 mù - gỗ", "石 shí - đá", "土 tǔ - đất", "气 qì - khí",
+            "水 shuǐ - nước", "火 huǒ - lửa", "风 fēng - gió", "雨 yǔ - mưa",
+            "雪 xuě - tuyết", "雷 léi - sấm", "电 diàn - điện", "光 guāng - ánh sáng",
+            "音 yīn - âm thanh", "色 sè - màu sắc", "黑 hēi - đen", "白 bái - trắng",
+            "红 hóng - đỏ", "蓝 lán - xanh dương", "绿 lǜ - xanh lá", "黄 huáng - vàng",
+            "紫 zǐ - tím", "橙 chéng - cam", "粉 fěn - hồng", "灰 huī - xám",
+            "棕 zōng - nâu", "金 jīn - vàng kim", "银 yín - bạc", "铜 tóng - đồng",
+            "铁 tiě - sắt", "木 mù - gỗ", "石 shí - đá", "土 tǔ - đất",
+            "气 qì - khí", "水 shuǐ - nước", "火 huǒ - lửa", "风 fēng - gió",
+            "雨 yǔ - mưa", "雪 xuě - tuyết", "雷 léi - sấm", "电 diàn - điện",
+            "光 guāng - ánh sáng", "音 yīn - âm thanh", "色 sè - màu sắc",
+            "黑 hēi - đen", "白 bái - trắng", "红 hóng - đỏ", "蓝 lán - xanh dương",
+            "绿 lǜ - xanh lá", "黄 huáng - vàng", "紫 zǐ - tím", "橙 chéng - cam",
+            "粉 fěn - hồng", "灰 huī - xám", "棕 zōng - nâu", "金 jīn - vàng kim",
+            "银 yín - bạc", "铜 tóng - đồng", "铁 tiě - sắt", "木 mù - gỗ",
+            "石 shí - đá", "土 tǔ - đất", "气 qì - khí", "水 shuǐ - nước",
+            "火 huǒ - lửa", "风 fēng - gió", "雨 yǔ - mưa", "雪 xuě - tuyết",
+            "雷 léi - sấm", "电 diàn - điện", "光 guāng - ánh sáng", "音 yīn - âm thanh",
+            "色 sè - màu sắc", "黑 hēi - đen", "白 bái - trắng", "红 hóng - đỏ",
+            "蓝 lán - xanh dương", "绿 lǜ - xanh lá", "黄 huáng - vàng", "紫 zǐ - tím",
+            "橙 chéng - cam", "粉 fěn - hồng", "灰 huī - xám", "棕 zōng - nâu",
+            "金 jīn - vàng kim", "银 yín - bạc", "铜 tóng - đồng", "铁 tiě - sắt",
+            "木 mù - gỗ", "石 shí - đá", "土 tǔ - đất", "气 qì - khí"
+        ];
+
+        const totalWords = words.length;
+        const wordsPerPage = 50;
+        const totalPages = Math.ceil(totalWords / wordsPerPage);
+
+        document.getElementById("totalWords").innerText = `Tổng số từ: ${totalWords}`;
+
+        function displayPage(page) {
+            const start = (page - 1) * wordsPerPage;
+            const end = start + wordsPerPage;
+            const wordsToShow = words.slice(start, end);
+
+            const container = document.getElementById("wordsContainer");
+            container.innerHTML = '';
+
+            wordsToShow.forEach(word => {
+                const p = document.createElement("p");
+                p.innerHTML = `<i>${word}</i> &nbsp; &nbsp;<button onclick="playSound('${word.split(' ')[0]}')">Nghe phát âm</button>`;
+                container.appendChild(p);
+            });
+
+            updatePagination(page);
+        }
+
+        function updatePagination(currentPage) {
+            const pagination = document.getElementById("pagination");
+            pagination.innerHTML = '';
+
+            for (let i = 1; i <= totalPages; i++) {
+                const button = document.createElement("button");
+                button.innerText = i;
+                button.onclick = () => displayPage(i);
+                if (i === currentPage) {
+                    button.style.fontWeight = "bold";
+                }
+                pagination.appendChild(button);
+            }
+        }
+
+        function playSound(word) {
+            const voice = document.getElementById("voiceSelect").value;
+            let url = `https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=${word}&tl=zh`;
+            if (voice === "male") {
+                url += "&ttsspeed=1";
+            } else {
+                url += "&ttsspeed=0.9";
+            }
+            const audio = new Audio(url);
+            audio.play();
+        }
+
+        displayPage(1);
+    </script>
+</body>
+</html>
