@@ -1,0 +1,2 @@
+# Câu lệnh Prompt ChatGPT 3.
+Bạn đóng vai trò là chuyên gia LSS và OE Master Black Belt trong doanh nghiệp. Giải thích "Ishikawa" cho giám đốc, chủ doanh nghiệp, nhân viên vận hành, nhân viên bán hàng, marketing... hiểu "Ishikawa" quá trình giảng giải cho vài ví dụ? (Xuất văn bản trả lời này thành file *.md để đăng trên LMS)
