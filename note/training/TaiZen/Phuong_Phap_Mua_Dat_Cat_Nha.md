@@ -2,6 +2,8 @@
 
 [![Anh Tài chia sẻ kinh nghiệm xây nhà, cách lựa chọn nhà thầu, kiến trúc, giám sát,....](https://img.youtube.com/vi/KO-sAg0QuHY/0.jpg)](https://www.youtube.com/watch?v=KO-sAg0QuHY)
 
+[Văn Bản Google Doc](https://docs.google.com/document/d/1dUWH0OcZ4NfSwG9hDHMu6TF-fwXajf1MM1n4hb6-Rcc/edit?usp=sharing)
+
 ### Mua Đất Có Sổ Đỏ Chính Chủ
 1. Chỉ mua đất có sổ đỏ. Nếu không có sổ đỏ đừng bao giờ đụng tới.
 2. Xác định sổ thật hay giả bằng cách đi công chứng sổ đỏ tại cơ quan nhà nước.
@@ -19,7 +21,7 @@ Chú ý:
 	Lúc chủ đất lấy sổ đỏ ra người mua không mua miếng đất đó.
 	Lúc lấy sổ từ ngân hàng ra rồi ko vay lại được.
 	Cách giải quyết: 
-	Chọn phòng công chứng gần ngân hàng.
+	Chọn phòng công chứng tại cơ quan nhà nước gần ngân hàng.
 		
 	Trường hợp 2:
 	Nếu xây biệt thự thì không mua đất nền phân lô. Vì đất phân lô sẽ xây nhà sát nhau 100% diện tích đất.
@@ -27,21 +29,23 @@ Chú ý:
 	Vì đất xây biệt thự xây được 60% đất. Có khoảng trống xung quanh nhà.
 
 3. Không để người khác đứng tên đất mình mua.
+	- Tuyệt Đối Không Để Người Thân, Bạn Bè ... đứng tên sổ đất mình mua.
 
 ### Thiết Kế Nhà Trước Khi Mua Đất
-	Thiết kế mặt bằng để tìm miếng đất phù hợp.
+	
+Thiết kế mặt bằng để tìm miếng đất phù hợp.
 	Người thiết kế, kiến trúc sư không lúc nào thiết kế đúng 100% theo ý mình muốn.
 	Đừng bao giờ nhờ nhà thi công thiết kế nhà.
 	Lý đo phải dùng kiến trúc sư:
 		Có bộ hồ sơ tính toán vật liệu bê tông, dây diện .... dự toán khối lượng công trình.
-		Đơn vị thiết kế phải độc lập, không liên quan xây dựng.
+		Đơn vị thiết kế phải độc lập, không làm xây dựng chỉ chuyên về thiết kế, không liên quan xây dựng.
 		Đơn vị xây dựng ko liên quan đến thiết kế để không xung đột lợi ích.
-		Kiến trúc sư có thể điều chỉnh vật liệu
+		Kiến trúc sư có thể điều chỉnh vật liệu trong bản thiết kế trước khi xây dựng
 		Giám sát công trình có hồ sơ để giám sát thi công.
 		Bộ hồ sơ thiết kế dùng để xin giấy phép xây dựng.
 		Bên kiến trúc trình bày các dự án đã làm qua. Đã đủ kinh nghiệm. Để bảo trì hệ thống cho dễ.
 		Xây xong kiến trúc, nhà thầu, giám sát sẽ làm hồ sơ thi công. 
-		Cập nhật bản vẽ, hoàn công. Xem có gì thay đổi sau khi xây.
+		Cập nhật bản vẽ, hoàn công. Xem có gì thay đổi sau khi xây. Sau này dễ bảo trì ngôi nhà đúng cách.
 		Chi phí lớn nhất hàng tháng trong 1 ngôi nhà là điện và gas.
 		Đơn vị thiết kế cấp 1 : Sẽ có cấp phép của nhà nước.
 		Kiến trúc, Kết cấu, Điện nước(MEP: Mechanical, electrical, and plumbing)
