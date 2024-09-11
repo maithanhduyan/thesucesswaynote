@@ -15,12 +15,13 @@
 
 [Em Nên Nghe Lời Nói Của Một Người Mà Chưa Đạt Mức Tài Chính Em Muốn Không? - By Tai Duong](https://youtu.be/61rvCkhhqwk)
 
-### 4 Nguyên Tắc Làm Người Đàn Ông Mạnh Mẽ
+### 6 Nguyên Tắc Làm Người Đàn Ông Mạnh Mẽ
 1. *Không chinh phục thằng nào hết trơn*.
 2. *Không xin phép người ta trước khi mình làm việc gì*.
-3. *Mình làm sai lầm hay thành công không có chờ sự chấp nhận của thằng khác*.
+3. *Mình làm sai lầm hay thành công không có chờ sự chấp nhận của thằng khác. Tự mình chỉnh sửa*.
 4. *Không để lời nói hay hành động của thằng khác ảnh hưởng cảm xúc của mình*.
-5. *Tìm hiểu thông tin kỹ để nói lời nói cho chính xác.*
+5. *Tìm hiểu thông tin kỹ, quí trọng lời nói cho chính xác, rõ ràng*
+6. *Bảo vệ được cái biên giới có hình và vô hình của mình*
 
 
 ### 2 tài năng cần có trong trading
