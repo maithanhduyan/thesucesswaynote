@@ -1,0 +1,5 @@
+John Templeton, một trong những nhà đầu tư vĩ đại, nổi tiếng với chiến thuật đầu tư trong khủng hoảng, đặc biệt là cách ông xử lý các thị trường giá xuống. Ông thực hiện chiến lược "cược nhỏ" bằng cách đầu tư từng khoản tiền nhỏ vào các cổ phiếu tiềm năng trong giai đoạn thị trường suy thoái hoặc khủng hoảng kinh tế. Khi các cổ phiếu này ở mức giá rất thấp, Templeton bắt đầu mua dần dần, nhưng không vội vàng đặt cược lớn ngay từ đầu.
+
+Nhờ vào chiến thuật này, ông có thể giảm thiểu rủi ro và tận dụng lợi thế khi thị trường hồi phục. Ông thường nhắm vào các công ty có tiềm năng phát triển lâu dài nhưng đang gặp khó khăn trong ngắn hạn, do đó có thể mua vào với giá thấp và hưởng lợi khi thị trường và giá trị của các công ty này tăng trở lại.
+
+Điểm đặc biệt ở chiến lược của Templeton là sự kiên nhẫn và khả năng phân bổ vốn thông minh. Thay vì cố gắng bắt đáy hoặc đặt tất cả vào một lần, ông duy trì một tầm nhìn dài hạn và có kế hoạch gia tăng tỷ trọng đầu tư khi các điều kiện bắt đầu có dấu hiệu tích cực hơn.
