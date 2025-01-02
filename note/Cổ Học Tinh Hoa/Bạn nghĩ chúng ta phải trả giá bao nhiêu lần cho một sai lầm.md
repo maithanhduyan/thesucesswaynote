@@ -1,0 +1,9 @@
+Bạn nghĩ chúng ta phải trả giá bao nhiêu lần cho một sai lầm? Câu trả lời là: hàng ngàn lần. Con người là loài duy nhất trên trái đất này trả giá đến cả ngàn lần cho cùng một sai lầm. Những loài vật khác, sai một lần, trả giá một lần. Còn chúng ta thì sao?
+Chúng ta có một trí nhớ quá đỗi siêu phàm. Chỉ cần phạm sai lầm, ta ngay lập tức tự phán xét bản thân, tự kết tội mình, rồi tự trừng phạt. Nếu công bằng tồn tại, thì chỉ cần một lần thôi là đủ, đúng không? Nhưng không, mỗi lần nhớ lại, ta lại lôi chuyện cũ ra xét xử thêm một lần nữa, tự trách móc, tự làm đau lòng mình, hết lần này đến lần khác.
+Rồi nếu có vợ hay chồng, họ sẽ nhắc khéo về cái sai lầm đó. Vậy là ta có thêm cơ hội để tự kết tội và tự trừng phạt lần nữa. Hết vòng lặp này đến vòng lặp khác. Như thế có công bằng không?
+
+— Don Miguel Ruiz, The Four Agreements
+
+"How many times do we pay for one mistake? The answer is thousands of times. The human is the only animal on earth that pays a thousand times for the same mistake. The rest of the animals pay once for every mistake they make. But not us. We have a powerful memory. We make a mistake, we judge ourselves, we find ourselves guilty, and we punish ourselves. If justice exists, then that was enough; we don’t need to do it again. But every time we remember, we judge ourselves again, we are guilty again, and we punish ourselves again, and again, and again. If we have a wife or husband he or she also reminds us of the mistake, so we can judge ourselves again, punish ourselves again, and find ourselves guilty again. Is this fair?" 
+―Don Miguel Ruiz, The Four Agreements 
+illustration by Robert Carter
