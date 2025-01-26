@@ -28,6 +28,3 @@ The Success Way Note
 - [Benjamin Franklin](/note/quotes/Benjamin%20Franklin.md)
 </br>
 
-- **Buy me a coffee in Dogecoin : DDYnGiWgpSm1cmi8imksqHY8aLX7RtzVEa** <br>
-[DOGECOIN WALLET QR](https://dogechain.info/address/DDYnGiWgpSm1cmi8imksqHY8aLX7RtzVEa)
-
