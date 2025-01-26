@@ -30,4 +30,4 @@ The Success Way Note
 
 - **Buy me a coffee in Dogecoin : DDYnGiWgpSm1cmi8imksqHY8aLX7RtzVEa** <br>
 [DOGECOIN WALLET QR](https://dogechain.info/address/DDYnGiWgpSm1cmi8imksqHY8aLX7RtzVEa)
-![Doge](/images/wallet/DOGE-DDYnGiWgpSm1cmi8imksqHY8aLX7RtzVEa.png "Title")
+
