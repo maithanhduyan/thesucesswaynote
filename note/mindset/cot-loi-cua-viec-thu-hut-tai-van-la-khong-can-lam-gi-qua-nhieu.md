@@ -1,3 +1,5 @@
+# CỐT LÕI CỦA VIỆC THU HÚT TÀI VẬN LÀ KHÔNG CẦN LÀM GÌ QUÁ NHIỀU
+
 **Bạn có tin không? Đồng tiền có năng lượng. Dưới đây là năm câu nói sâu sắc về tiền mà bạn nên biết sớm hơn để đổi đời:**
 
 1. **Thứ nhất:** Không cần biết bạn mất bao nhiêu tiền, dù chỉ là một xu, cũng phải trân trọng và yêu quý.  
