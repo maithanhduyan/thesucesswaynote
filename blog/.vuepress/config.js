@@ -6,8 +6,8 @@ import { viteBundler } from '@vuepress/bundler-vite'
 export default defineUserConfig({
   lang: 'en-US',
 
-  title: 'VuePress',
-  description: 'My first VuePress Site',
+  title: 'B3 Blog',
+  description: 'Sưu tầm kiến thức về cuộc sống và công nghệ',
 
   theme: defaultTheme({
     logo: 'https://vuejs.press/images/hero.png',
