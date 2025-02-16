@@ -4,8 +4,8 @@ import { defineUserConfig } from 'vuepress'
 import { viteBundler } from '@vuepress/bundler-vite'
 
 export default defineUserConfig({
-  lang: 'en-US',
-
+  base: process.env.NODE_ENV === 'production' ? '/thesucesswaynote/' : '/',
+  lang: 'vi-VN',
   title: 'B3 Blog',
   description: 'Sưu tầm kiến thức về cuộc sống và công nghệ',
 

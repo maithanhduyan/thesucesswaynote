@@ -1,7 +1,11 @@
+[![Deploy Blog](https://github.com/maithanhduyan/thesucesswaynote/actions/workflows/deploy.yml/badge.svg)](https://github.com/maithanhduyan/thesucesswaynote/actions/workflows/deploy.yml)
+
 # thesucesswaynote
+
 The Success Way Note
 
 ## Con Đường Thành Công - Những Nguyên Tắc Trong Tài Chính
+
 - [8 Bài Học Làm Giàu Hiệu Quả Từ Robert Kiyosaki](/note/mindset/8BaiHocLamGiauHieuQuaCuaRobertKiosaky.md)
 - [5 Điều Cần Làm Để Tự Do Tài Chính](/note/mindset/5DieuCanLamDeTuDoTaiChinh.md)
 - [7 Dấu Hiệu Cho Thấy Bạn Sẽ Thành Công Trong Tương Lai](/note/mindset/7TinHieuThanhCong.md)
@@ -13,9 +17,11 @@ The Success Way Note
 - [4 Mỏ Vàng Giúp Phát Triển Sự Nghiệp Không Học Phí Cả Đời](/note/mindset/4MoVangThanhCong.md)
 
 ## Những Câu Chuyện Về Tự Do Tài Chính
+
 1. [Ronald Read](/note/stories/RonaldRead.md)
 
 ## [Danh Ngôn Hay Về Đầu Tư](/note/quotes/README.md)
+
 - [Sir John Templeton](/note/quotes/Sir%20John%20Templeton.md)
 - [George Soros](/note/quotes/George%20Soros.md)
 - [Jesse Livermore](/note/quotes/Jesse%20Livermore.md)
@@ -26,5 +32,4 @@ The Success Way Note
 - [Carl Icahn](/note/quotes/Carl%20Icahn.md)
 - [Warren Buffett](/note/quotes/Warren%20Buffett.md)
 - [Benjamin Franklin](/note/quotes/Benjamin%20Franklin.md)
-</br>
-
+  </br>
