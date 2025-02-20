@@ -3,7 +3,7 @@ date: 2025-02-15
 category:
   - co-hoc-tinh-hoa
 tag:
-  - co-hoc-tin-hoa
+  - co-hoc-tinh-hoa
 ---
 
 # Kẻ mạnh tự mình tỉnh thức, kẻ yếu tỉnh ngộ trong nỗi đau.
@@ -14,19 +14,24 @@ Thưa quý vị và các bạn, một văn hào đã từng viết: _“Mỗi ng
 
 Người được biết danh là thần y thời Chiến Quốc là Biển Thước, ba lần đến gặp Hoàn Công, thế nhưng Hoàn Công chẳng mảy may tin dùng. Mãi đến khi bệnh tật bắt tác, Hoàn Công mới hốt hoảng tỉnh ngộ, nhưng thảm họa đã muộn màng. Thuốc nào cứu chữa được nữa mà Biển Thước cũng đã cao chạy xa bay sang đất Tần. Bệnh của thân xác đã vậy, bệnh của tư duy còn đáng sợ hơn.
 
-Một tác gia đã từng viết: _“Đời người có lắm đạo lý phải tự mình nếm trải mới tỏ tường. Chuyện chưa kinh qua, dẫu người khác có nói bao nhiêu, vẫn cứ thấy như một lớp giấy mỏng che khuất một câu chuyện đời thực.”_
-
-Kể rằng Từ Mạnh Nam, sinh năm 1989 ở An Huy, Trung Quốc, từ nhỏ vốn học hành không tệ. Nhưng đến cấp ba, anh ta bắt đầu sinh lòng chống đối việc học. Gia đình, thầy cô ra sức khuyên nhủ, nhưng anh ta chẳng những không hối cải mà còn ngang nhiên nộp giấy trắng trong kỳ thi đại học năm 2008. Chàng trai Từ Mạnh Nam bước vào kỳ thi Cao khảo (tên gọi kỳ thi đại học ở Trung Quốc). Khi tiếng chuông báo bắt đầu làm bài vang lên, tất cả học sinh xung quanh đều miệt mài với những câu hỏi trong đề thi, thì Từ Mạnh Nam đã ung dung mở đầu cho bài làm ngữ văn của mình như sau: _“Thầy cô thân mến, em đến tham gia cuộc thi không phải vì để học đại học. Em sẽ thi với con số không điểm. Em muốn bày tỏ sự bất mãn của em đối với hệ thống giáo dục đang hiện hành.”_ Trong mắt anh ta lúc bấy giờ, đó là một hành động rất ngầu.
+Một tác gia đã từng viết: _“Đời người có lắm đạo lý phải tự mình nếm trải mới tỏ tường. Chuyện chưa kinh qua, dẫu người khác có nói bao nhiêu, vẫn cứ thấy như một lớp giấy mỏng che khuất”_
+Một câu chuyện đời thực kể rằng Từ Mạnh Nam, sinh năm 1989 ở An Huy, Trung Quốc, từ nhỏ vốn học hành không tệ. Nhưng đến cấp ba, anh ta bắt đầu sinh lòng chống đối việc học. Gia đình, thầy cô ra sức khuyên nhủ, nhưng anh ta chẳng những không hối cải mà còn ngang nhiên nộp giấy trắng trong kỳ thi đại học năm 2008. Chàng trai Từ Mạnh Nam bước vào kỳ thi Cao khảo (tên gọi kỳ thi đại học ở Trung Quốc). Khi tiếng chuông báo bắt đầu làm bài vang lên, tất cả học sinh xung quanh đều miệt mài với những câu hỏi trong đề thi, thì Từ Mạnh Nam đã ung dung mở đầu cho bài làm ngữ văn của mình như sau: _“Thầy cô thân mến, em đến tham gia cuộc thi không phải vì để học đại học. Em sẽ thi với con số không điểm. Em muốn bày tỏ sự bất mãn của em đối với hệ thống giáo dục đang hiện hành.”_ Trong mắt anh ta lúc bấy giờ, đó là một hành động rất ngầu.
 
 Bỏ thi đại học, không bằng cấp, Từ Mạnh Nam lang bạt khắp nơi, chẳng tìm được công việc nào ra hồn. Anh ta làm công nhân dây chuyền, làm bồi bàn, làm thợ lắp ráp, nhưng thu nhập bèo bọt, khốn khó đến nỗi có lúc phải ngủ vạ vật ngoài đường. Năm 2010, theo sự sắp đặt của gia đình, anh ta kết hôn với một cô gái khiếm thính, rồi lại ly hôn vào năm 2017. Sau này, trong một cuộc phỏng vấn, Từ Mạnh Nam cay đắng nói: _“Những năm tháng lăn lộn ngoài xã hội, tôi đã làm đủ thứ mọi việc dơ bẩn, cực nhọc, sống chẳng có chút tôn nghiêm, thậm chí không bằng một con chó. Chính những tháng ngày cơ cực ấy đã khiến anh ta bừng tỉnh, bắt đầu nỗ lực phấn đấu không ngừng, đọc sách học hỏi, quyết tâm quay lại trường thi.”_ Và năm 2018, Từ Mạnh Nam về lại quê nhà An Huy và quyết định tham gia kỳ thi Cao khảo lần nữa. Trước cổng trường thi, anh ta nói: _“Học hành là con đường tốt nhất để thay đổi số phận. Nếu có thể quay ngược thời gian, tôi nhất định sẽ khuyên bản thân mình thi cử cho tử tế để không phải hối tiếc.”_ 16 năm ròng rã trôi qua, cuối cùng Từ Mạnh Nam cũng hiểu ra tầm quan trọng của việc học. Nhưng trong suốt quãng thời gian ấy, anh ta đã phung phí biết bao nhiêu năm tháng, đã phải nếm trải biết bao nhiêu đòn roi của cuộc đời. Đúng như câu nói: _“Chưa thấy quan tài, chưa đổ lệ; bệnh không đau, thì chưa biết sợ; người không đau, thì chưa tỉnh ngộ.”_ Có những người dù có nhắc nhở thế nào, họ cũng chẳng hề để tâm. Chỉ đến khi thực sự nếm mùi khổ ải, chịu đựng gian truân, họ mới bàng hoàng nhận ra.
 
-Giống như trong lời lục khối minh, một kỳ văn lưu truyền của Khấu Chuẩn, một vị tể tướng thời Bắc Tống, đã từng viết:  
- _“Quan hành tứ khúc, thất thời hối.  
- Phú bất kiệm dụng, bần thì hối.  
- Nghệ bất thiểu học, quá thì hối.  
- Kiến sự bất học, dụng thì hối.  
- Túy phát cuồng ngôn, tỉnh thì hối.  
- An bất tương tức, bệnh thì hối.”_
+Giống như trong lời **_lục hối minh_** (六悔銘), một kỳ văn lưu truyền của **Khấu Chuẩn**(寇準), một vị tể tướng thời Bắc Tống, đã từng viết:  
+ _Quan hành tư khúc, thất thời hối.  
+ 官行私曲，失時悔
+Phú bất kiệm dụng, bần thời hối.  
+富不儉用，貧時悔
+Nghệ bất thiểu học, quá thời hối.
+藝不少學，過時悔
+Kiến sự bất học, dụng thời hối.  
+見事不學，用時悔
+Túy phát cuồng ngôn, tỉnh thời hối.  
+醉發狂言，醒時悔
+An bất tương tức, bệnh thời hối.
+安不將息，病時悔_
 
 Nghĩa là:
 
@@ -41,15 +46,30 @@ Gặp chuyện gấp, chuyện khó, mới biết tích cóp tiền bạc là qu
 
 Tiếp đến là kẻ mạnh tự mình thức tỉnh. Kinh Dịch, quẻ Cách có viết: _“Quân tử báo biến, tiểu nhân cách diện.”_ Nghĩa là, người quân tử thay đổi như con báo, kẻ tiểu nhân thay đổi về bề ngoài. Báo con khi mới sinh ra xấu xí vô cùng, lông lá xám xịt, lộn xộn. Thế nhưng, đến khi thay lông, báo con lột sắc ngoạn mục, toàn thân rũ bỏ lớp lông tạp, trở nên óng ả, mượt mà. Quá trình này chỉ vỏn vẹn ba ngày. Sự thức tỉnh của người quân tử cũng giống như loài báo vậy. Một khi nắm bắt được thời cơ, họ sẽ chủ động thay đổi từ trong ra ngoài, trở thành một con người có phẩm chất cao quý.
 
-Một tác gia đã từng nói: _“Đời người, suy cho cùng, chẳng qua là nhận thức của bản thân, rèn rũa bản thân, tự giác tự nguyện mà cải tạo bản thân. Sự thức tỉnh của một đời người, sự thay đổi của vận mệnh, thường chỉ diễn ra trong một khoảnh khắc. Nắm bắt được thì tiến bộ, bỏ lỡ thì sa ngã.”_
+Một tác gia đã từng nói:
+_“Đời người, suy cho cùng, chẳng qua là nhận thức của bản thân, rèn rũa bản thân, tự giác tự nguyện mà cải tạo bản thân. Sự thức tỉnh của một đời người, sự thay đổi của vận mệnh, thường chỉ diễn ra trong một khoảnh khắc. Nắm bắt được thì tiến bộ, bỏ lỡ thì sa ngã.”_
 
-Trầm Tử Ngang là nhà thơ nổi tiếng đời Đường, xuất thân từ gia thế phú quý, quen thói ăn chơi. Đến năm 17 tuổi, nếu không có gì đổi hẳn, ông sẽ trở thành một công tử phong lưu, sống một cuộc đời phù phiếm, vô vị. Nhưng bỗng ông chợt tự hỏi: _“Liệu cuộc đời có thể khác đi không?”_ Thế là ông dứt khoát lập chí, từ biệt bạn bè cũ, chuyên tâm đèn sách, đọc rộng hiểu nhiều, nghiền ngẫm kinh sử. Chẳng bao lâu, ông đã thông hiểu Bách gia chư tử, trở thành một đại văn hào, danh tiếng lưu truyền sử sách. Tự nhận thức, từ xưa đến nay, luôn là phương cách tu dưỡng bản thân của những bậc tinh anh. Mọi bước tiến vượt bậc của con người, về bản chất, đều là sự thức tỉnh của nhận thức. Muốn bản thân lột xác, nhất định phải sớm tự mình đánh thức chính mình.
+Trầm Tử Ngang là nhà thơ nổi tiếng đời Đường, xuất thân từ gia thế phú quý, quen thói ăn chơi. Đến năm 17 tuổi, nếu không có gì đổi hẳn, ông sẽ trở thành một công tử phong lưu, sống một cuộc đời phù phiếm, vô vị. Nhưng bỗng ông chợt tự hỏi:
+_“Liệu cuộc đời có thể khác đi không?”_
+Thế là ông dứt khoát lập chí, từ biệt bạn bè cũ, chuyên tâm đèn sách, đọc rộng hiểu nhiều, nghiền ngẫm kinh sử. Chẳng bao lâu, ông đã thông hiểu Bách gia chư tử, trở thành một đại văn hào, danh tiếng lưu truyền sử sách. Tự nhận thức, từ xưa đến nay, luôn là phương cách tu dưỡng bản thân của những bậc tinh anh. Mọi bước tiến vượt bậc của con người, về bản chất, đều là sự thức tỉnh của nhận thức. Muốn bản thân lột xác, nhất định phải sớm tự mình đánh thức chính mình.
 
 ## **Nhân sinh tại thế, làm người, làm việc, thành công nhờ 10 điều giác ngộ:**
 
 ### 1.Năng lực, động lực, định lực là điểm tựa để đứng vững và tiến bước.
 
-Sách _Đại Học_ có viết: _“Tri chỉ nhi hậu hữu định, định nhi hậu năng tĩnh, tĩnh nhi hậu năng an, an nhi hậu năng lự, lự nhi hậu năng đắc.”_ Nghĩa là, biết được cái mục đích cần đặt đến mà sau đó mới có sự kiên định. Kiên định rồi mới có thể yên ổn, yên ổn rồi mới có thể an tâm thư thái. An tâm rồi thì sau mới lo nghĩ mưu sự, lo nghĩ chu đáo rồi mới có thể đạt thành.
+Sách Đại Học\* có viết:
+_Tri chỉ nhi hậu hữu định,
+(知止而后有定)
+Định nhi hậu năng tĩnh,
+(定而后能静)
+Tĩnh nhi hậu năng an,
+(静而后能安)
+An nhi hậu năng lự,
+(安而后能虑)
+Lự nhi hậu năng đắc.
+(虑而后能得)_
+
+Nghĩa là, biết được cái mục đích cần đặt đến mà sau đó mới có sự kiên định. Kiên định rồi mới có thể yên ổn, yên ổn rồi mới có thể an tâm thư thái. An tâm rồi thì sau mới lo nghĩ mưu sự, lo nghĩ chu đáo rồi mới có thể đạt thành.
 
 - Năng lực là nền tảng để làm việc, quyết định bạn có thể làm gì.
 - Động lực là điều kiện để làm việc, quyết định bạn muốn làm gì.
@@ -58,7 +78,10 @@ Sách _Đại Học_ có viết: _“Tri chỉ nhi hậu hữu định, định 
 
 ### 2.Thạo việc, khéo léo đối nhân xử thế, giỏi nhẫn nhịn là bậc thang lớn để tiến bộ.
 
-Kinh Dịch, hào Cửu Nhị quẻ Càn có lời: _“Quân tử học dĩ tụ chi, vấn dĩ biện chi, khoan dĩ cư chi, nhân dĩ hành chi.”_ Nghĩa là, người quân tử học để tích lũy kiến thức, hỏi để phân biệt đúng sai, khoan dung để đối đãi với người, nhân nghĩa để thực hành.
+Kinh Dịch, hào Cửu Nhị quẻ Càn có lời:
+_“Quân tử học dĩ tụ chi, vấn dĩ biện chi, khoan dĩ cư chi, nhân dĩ hành chi.”_
+(君子學以聚之，問以辯之，寬以居之，仁以行之)
+Nghĩa là, người quân tử học để tích lũy kiến thức, hỏi để phân biệt đúng sai, khoan dung để đối đãi với người, nhân nghĩa để thực hành.
 
 - Một người thạo việc là một loại phẩm chất.
 - Biết cách đối nhân xử thế, giỏi đoàn kết là một loại cảnh giới.
@@ -67,11 +90,15 @@ Kinh Dịch, hào Cửu Nhị quẻ Càn có lời: _“Quân tử học dĩ t�
 
 ### 3. Ý tưởng, cách diễn đạt, phương pháp là ba bước nhảy của năng lực.
 
-Bậc thầy tâm học Vương Dương Minh từng nói: _“Chưa có ai biết mà không làm. Biết mà không làm, chẳng qua là chưa biết.”_ Năng lực của một người có thể nói có hai lần nhảy vọt: một lần là biến ý tưởng trong đầu thành lời nói, lần khác là biến lời nói thành phương pháp thực tế. Có thể nói trúng tim đen, lay động lòng người, sưởi ấm lòng người, khiến người khác tin phục, kính phục, đó chính là bản lĩnh thực sự, trí tuệ thực sự. Nếu lại có thể biến những ý tưởng, lời nói này thành những hành động và phương pháp cụ thể, thực hiện được, có hiệu quả, đó chính là bản lĩnh lớn, trí tuệ lớn.
+Bậc thầy tâm học Vương Dương Minh từng nói:
+_“Chưa có ai biết mà không làm. Biết mà không làm, chẳng qua là chưa biết.”_
+Năng lực của một người có thể nói có hai lần nhảy vọt: một lần là biến ý tưởng trong đầu thành lời nói, lần khác là biến lời nói thành phương pháp thực tế. Có thể nói trúng tim đen, lay động lòng người, sưởi ấm lòng người, khiến người khác tin phục, kính phục, đó chính là bản lĩnh thực sự, trí tuệ thực sự. Nếu lại có thể biến những ý tưởng, lời nói này thành những hành động và phương pháp cụ thể, thực hiện được, có hiệu quả, đó chính là bản lĩnh lớn, trí tuệ lớn.
 
 ### 4. Học thức, kiến thức, đảm lược là bảo bối của người làm nên nghiệp lớn.
 
-Trong _Luận Ngữ_ từng chép: _“Tri giả bất hoặc, nhân giả bất ưu, dũng giả bất cụ.”_ Nghĩa là, người có tri thức thì không mê hoặc, người có lòng nhân thì không lo âu, người có dũng khí thì không sợ hãi.
+Trong _Luận Ngữ_ từng chép:
+_“Tri giả bất hoặc, nhân giả bất ưu, dũng giả bất cụ.”_
+Nghĩa là, người có tri thức thì không mê hoặc, người có lòng nhân thì không lo âu, người có dũng khí thì không sợ hãi.
 
 - Học thức là lượng kiến thức của một người.
 - Kiến thức là kinh nghiệm của một người, là sự tích lũy kinh nghiệm, là tầm nhìn và lòng ngực.
