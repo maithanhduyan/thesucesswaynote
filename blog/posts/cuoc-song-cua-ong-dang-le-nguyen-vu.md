@@ -34,7 +34,7 @@ Phong cách lãnh đạo của ông Đặng Lê Nguyên Vũ tại Trung Nguyên 
 ### **2. Xây dựng hệ thống tự quản**
 
 - **Trao quyền tuyệt đối:** Ông Vũ tin tưởng vào năng lực của đội ngũ và giao quyền tự chủ hoàn toàn ("_tung cánh hết đi_"). Điều này tương tự mô hình **"Teal Organization"** (tổ chức tự quản) – nơi nhân viên không cần cấp trên giám sát mà tự chịu trách nhiệm dựa trên giá trị chung. Ví dụ điển hình là Valve Corporation (công ty game) hoặc Zappos (thương hiệu giày).
-- **Luật nhân quả như cơ chế kiểm soát:** Thay vì dùng KPI hay quy tắc cứnh nhắc, ông dùng **đạo đức** và **niềm tin** làm nền tảng. Nhân viên tự điều chỉnh hành vi vì hiểu rằng mọi sai lầm đều có hệ quả (nhân-quả). Cách này giảm chi phí quản lý nhưng đòi hỏi văn hóa doanh nghiệp cực kỳ vững mạnh.
+- **Luật nhân quả như cơ chế kiểm soát:** Thay vì dùng KPI hay quy tắc cứng nhắc, ông dùng **đạo đức** và **niềm tin** làm nền tảng. Nhân viên tự điều chỉnh hành vi vì hiểu rằng mọi sai lầm đều có hệ quả (nhân-quả). Cách này giảm chi phí quản lý nhưng đòi hỏi văn hóa doanh nghiệp cực kỳ vững mạnh.
 
 ### **3. Tầm nhìn vĩ mô và sứ mệnh**
 
