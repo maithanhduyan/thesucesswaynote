@@ -76,7 +76,11 @@
       "problemMatcher": []
     },
     {
+<<<<<<< HEAD
       "label": "Insert User Prompt for A.I (Python)",
+=======
+      "label": "Insert Header (Python)",
+>>>>>>> 4439b5b73104344ff171efbcfa93040a557eccc2
       "type": "shell",
       "command": "python",
       "args": ["${workspaceFolder}/.tools/editor/insert_header.py", "${file}"],
@@ -89,6 +93,7 @@
       "problemMatcher": []
     },
     {
+<<<<<<< HEAD
       "label": "Replace think tag",
       "type": "shell",
       "command": "python",
@@ -102,6 +107,8 @@
       }
     },
     {
+=======
+>>>>>>> 4439b5b73104344ff171efbcfa93040a557eccc2
       "label": "Run All Text Cleanup Tasks",
       "dependsOn": [
         "Remove Timestamps (Python)",
