@@ -2,8 +2,10 @@
 date: 2022-01-22
 category:
   - kinh-te
+  - tran-si-chuong
 tag:
   - kinh-te
+  - tran-si-chuong
 ---
 
 # Doanh Nhân kể | Chuyên gia kinh tế quốc tế Trần Sĩ Chương: Kinh tế học từ chợ
