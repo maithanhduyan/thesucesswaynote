@@ -3,7 +3,7 @@ date: 2025-02-15
 category:
   - co-hoc-tinh-hoa
 tag:
-  - co-hoc-tin-hoa
+  - co-hoc-tinh-hoa
 ---
 
 # Phân tích bài viết "Từ – Kiệm – Hòa – Tĩnh: Con đường đến sự an nhiên tuyệt đối"
