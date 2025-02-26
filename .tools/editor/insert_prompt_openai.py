@@ -15,10 +15,9 @@ header = """Đầu tiên đọc hiểu đoạn văn tiếng Việt. Yêu cầu:
 """
 
 footer ="""
----
 Vui lòng chỉnh sửa toàn bộ đoạn văn theo các yêu cầu nêu trên và trả lời bằng văn bản đã được định dạng đúng.
 ---
-*Ghi chú: Hãy đảm bảo giữ nguyên nội dung gốc nhưng cải thiện cấu trúc, chính tả và định dạng sao cho dễ đọc và rõ ràng.*
+Ghi chú: Hãy đảm bảo giữ nguyên nội dung gốc nhưng cải thiện cấu trúc, chính tả và định dạng sao cho dễ đọc và rõ ràng.
 """
 # Đọc nội dung file hiện có
 with open(filename, "r", encoding="utf-8") as f:
