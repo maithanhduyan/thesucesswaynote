@@ -105,6 +105,22 @@
       "problemMatcher": []
     },
     {
+      "label": "Insert User Prompt of Deepseek",
+      "type": "shell",
+      "command": "python",
+      "args": [
+        "${workspaceFolder}/.tools/editor/insert_prompt_deepseek.py",
+        "${file}"
+      ],
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": false,
+        "panel": "shared"
+      },
+      "problemMatcher": []
+    },
+    {
       "label": "Replace think tag",
       "type": "shell",
       "command": "python",
