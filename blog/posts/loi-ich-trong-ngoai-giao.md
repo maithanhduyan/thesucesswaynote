@@ -38,7 +38,7 @@ Bối cảnh vào thời Tần Chiêu Tương Vương vừa lên ngôi.
 
 **Thái Hậu:** Nhưng mà...
 
-**Thái Hậu:** Ngươi nói bà ấy xảo trá, nói những lời tục tĩu? Như bổn cung thấy, Hoàng Thái hậu mới được phong chức này chẳng nói điều gì sai. Bang giao giữa hai nước dường như chỉ lịch sự dựa trên lợi ích mà thôi. Dù là lời lẽ có khiếm nhã, nhưng nếu đem lại lợi ích cho Tần thì chúng đều thật tâm. Bát Tử hôm nay đã từ chối cầu xin phái binh đi hỗ trợ cho Hàn. Sứ thần Hàn không thể nói gì hơn nữa. Lời lẽ, nhân cách, bản sắc và vị trí của hai nước đều phụ thuộc vào quốc lực. Quốc lực càng mạnh thì ta càng oai hùng. Tất cả các nước yếu chẳng thể làm gì ngoại trừ tán thành với ta. Nát Tử dám nói năng ngông cuồng, bởi vì Đại Tần ta đã là một cường quốc ở phía Tây.
+**Thái Hậu:** Ngươi nói bà ấy xảo trá, nói những lời tục tĩu? Như bổn cung thấy, Hoàng Thái hậu mới được phong chức này chẳng nói điều gì sai. Bang giao giữa hai nước dường như chỉ lịch sự dựa trên lợi ích mà thôi. Dù là lời lẽ có khiếm nhã, nhưng nếu đem lại lợi ích cho Tần thì chúng đều thật tâm. Bát Tử hôm nay đã từ chối cầu xin phái binh đi hỗ trợ cho Hàn. Sứ thần Hàn không thể nói gì hơn nữa. Lời lẽ, nhân cách, bản sắc và vị trí của hai nước đều phụ thuộc vào quốc lực. Quốc lực càng mạnh thì ta càng oai hùng. Tất cả các nước yếu chẳng thể làm gì ngoại trừ tán thành với ta. Bát Tử dám nói năng ngông cuồng, bởi vì Đại Tần ta đã là một cường quốc ở phía Tây.
 
 ---
 
