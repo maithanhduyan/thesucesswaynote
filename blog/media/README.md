@@ -6,6 +6,8 @@ D:\Project\commands-for-dev\AI\whisper\.venv\Scripts\activate
 
 > whisper D:\Project\thesucesswaynote\blog\media\khi-thi-truong-xanh.mp3 --language Vietnamese --model turbo --output_format txt --output_dir D:\Project\thesucesswaynote\blog\posts
 
+> whisper D:\Project\thesucesswaynote\blog\media\tu-duy-tang-qua.mp3 --language Vietnamese --model turbo --output_format txt --output_dir D:\Project\thesucesswaynote\blog\posts
+
 ## Help
 
 whisper -h
