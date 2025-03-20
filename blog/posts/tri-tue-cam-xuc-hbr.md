@@ -7,7 +7,7 @@ tag:
 archive: true
 ---
 
-# Tri Tuệ Cảm Xúc - HBR
+# Trí Tuệ Cảm Xúc - HBR
 
 **I. MỞ ĐẦU**
 
