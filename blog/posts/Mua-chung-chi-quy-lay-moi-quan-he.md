@@ -1,3 +1,12 @@
+---
+date: 2025-03-21
+category:
+  - dau-tu
+tag:
+  - dau-tu
+archive: true
+---
+
 **Câu hỏi**:
 
 Có tiền 1,000,000 hoặc 2,000,000 VND thì mua chứng chỉ Quỹ VinaCapital hoặc DragronCapital hàng tháng. Để lấy mối quan hệ. Sau này có mở tài khoản ở Singapo cũng có một cái profile đẹp là mình đã từng đầu tư quỹ quốc tế này. Hồ sơ cũng sáng sủa hẳn ra. 1 triệu, 2 triệu không phải là lớn nhưng bắt đầu một việc có ý nghĩa.
