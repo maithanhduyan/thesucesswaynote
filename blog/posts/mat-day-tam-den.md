@@ -10,7 +10,7 @@ archive: true
 # Sách: "Mặt Dày Tâm Đen"
 
 <audio controls>
-  <source src="/media/matdaytamden.mp3" type="audio/mpeg">
+  <source src="/matdaytamden.mp3" type="audio/mpeg">
   Trình duyệt của bạn không hỗ trợ phần tử audio.
 </audio>
 
