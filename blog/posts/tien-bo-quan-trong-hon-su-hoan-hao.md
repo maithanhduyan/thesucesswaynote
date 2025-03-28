@@ -1,3 +1,12 @@
+---
+date: 2025-03-28
+category:
+  - tu-duy
+tag:
+  - tu-duy
+archive: true
+---
+
 # Tiến Bộ Quan Trọng Hơn Hoàn Hảo
 
 **Xin chào các bạn! Chào mừng bạn đến với kênh _Hành trình thành công_.**
