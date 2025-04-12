@@ -19,13 +19,13 @@ archive: true
 
 _"Trong một buổi tiệc hôm nọ, trong cuộc rượu tâm tình, bạn tôi có thổ lộ nỗi niềm rằng: 'Điều xót xa hơn kiếp ngựa kéo xe chính là khi đã ở tuổi trung niên, kẹt cứng trong cái vòng xoáy nghiệt ngã của chốn công sở. Gồng mình ganh đua thì hết sức muốn buông xuôi, nằm im lại chẳng đặng mà tìm đường thoát ly cũng không xong.'"_
 
-Xin chào mừng quý vị và các bạn! Chúng ta lại hữu duyên gặp lại nhau trong buổi chia sẻ hôm nay. Tại video chia sẻ lần này, **Tân Phú Khánh Official - Trí Tuệ Nhân Sinh** xin mời quý vị và các bạn cùng đàm đạo về chủ đề mà nhiều người quan tâm, đặc biệt là những người trung niên ở trong độ tuổi từ 35 đến 45 - đó là những áp lực, khủng hoảng về cuộc sống của độ tuổi này.
+Xin chào mừng quý vị và các bạn! Chúng ta lại hữu duyên gặp lại nhau trong buổi chia sẻ hôm nay. Tại video chia sẻ lần này, tôi xin mời quý vị và các bạn cùng đàm đạo về chủ đề mà nhiều người quan tâm, đặc biệt là những người trung niên ở trong độ tuổi từ 35 đến 45 - đó là những áp lực, khủng hoảng về cuộc sống của độ tuổi này.
 
 ## Khủng Hoảng Tuổi Trung Niên
 
 Khủng hoảng tuổi trung niên, suy cho cùng, chưa bao giờ chỉ là áp lực vô hình từ những con số tuổi tác, mà chính là cái cảm giác bức bối đến nghẹt thở: trên có cha mẹ già, dưới lại có vợ con thơ, và hơn thế nữa đó là cuộc sống bị giam cầm trong lối sống tồn tại một cách thụ động.
 
-Vậy làm thế nào để cho độ tuổi này có điểm nương tựa, vỗ về khi cảm thấy hoang mang, trống rỗng và vô định? Sau đây là tám lời tâm huyết mà Tân Phú Khánh xin được chia sẻ tới cùng quý vị và các bạn, nguyện cầu có thể phần nào lay tỉnh, khơi dậy sự bừng tỉnh ở tuổi trung niên nơi bạn.
+Vậy làm thế nào để cho độ tuổi này có điểm nương tựa, vỗ về khi cảm thấy hoang mang, trống rỗng và vô định? Sau đây là tám lời tâm huyết mà tôi xin được chia sẻ tới cùng quý vị và các bạn, nguyện cầu có thể phần nào lay tỉnh, khơi dậy sự bừng tỉnh ở tuổi trung niên nơi bạn.
 
 ## Tám Điều Khắc Cốt Ghi Tâm
 
@@ -264,12 +264,4 @@ Hỡi những tâm hồn đồng điệu, xin cảm ơn các bạn đã kiên nh
 
 - Nhận thức được rõ thế giới
 - Thấu hiểu chính mình
-- Đạt được sự an nhiên tự tại, viên mãn trong tâm hồn
-
-Hãy dành tặng cho Tân Phú Khánh những nút like, share để khích lệ, cổ vũ và động viên. Và đừng quên đăng ký theo dõi kênh, tham gia hội viên để:
-
-- Kết nối với chúng tôi
-- Cùng nhau tu tập phúc báo
-- Lan tỏa những tri thức, kinh nghiệm sống đến với cộng đồng và mọi người
-
-Chia sẻ video này là một hành động "tùy hỷ công đức vô lượng". Một lần nữa, xin chân thành cảm ơn quý vị và các bạn đã dành ra thời gian quý báu của mình để lắng nghe bài chia sẻ này. Xin kính chúc quý vị và các bạn cùng gia đình luôn luôn được hạnh phúc, thành công và bình an trong cuộc sống. Xin trân trọng kính chào và hẹn gặp lại!
+- Đạt được sự an nhiên tự tại, viên mãn trong tâm hồn.
