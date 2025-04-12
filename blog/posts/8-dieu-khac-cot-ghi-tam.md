@@ -9,6 +9,12 @@ archive: true
 
 # Tám Điều Nhắn Gửi Xương Máu Cần Khắc Cốt Ghi Tâm Cho Người Tuổi Trung Niên (35-45)
 
+<audio controls>
+
+  <source src="/media/8-dieu-khac-cot-ghi-tam.mp3" type="audio/mpeg">
+  Trình duyệt của bạn không hỗ trợ phần tử audio.
+</audio>
+
 ## Mở Đầu
 
 _"Trong một buổi tiệc hôm nọ, trong cuộc rượu tâm tình, bạn tôi có thổ lộ nỗi niềm rằng: 'Điều xót xa hơn kiếp ngựa kéo xe chính là khi đã ở tuổi trung niên, kẹt cứng trong cái vòng xoáy nghiệt ngã của chốn công sở. Gồng mình ganh đua thì hết sức muốn buông xuôi, nằm im lại chẳng đặng mà tìm đường thoát ly cũng không xong.'"_
