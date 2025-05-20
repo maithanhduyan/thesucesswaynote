@@ -2,12 +2,13 @@ import { blogPlugin } from '@vuepress/plugin-blog'
 import { defaultTheme } from '@vuepress/theme-default'
 import { defineUserConfig } from 'vuepress'
 import { viteBundler } from '@vuepress/bundler-vite'
+import { mdEnhancePlugin } from "vuepress-plugin-md-enhance";
 
 export default defineUserConfig({
   base: process.env.NODE_ENV === 'production' ? '/thesucesswaynote/' : '/',
   lang: 'vi-VN',
   title: 'B3 Blog',
-  description: 'Sưu tầm kiến thức về cuộc sống và công nghệ',
+  description: '',
 
   theme: defaultTheme({
     logo: 'https://vuejs.press/images/hero.png',
@@ -134,6 +135,9 @@ export default defineUserConfig({
         },
       ],
       hotReload: true,
+    }),
+    mdEnhancePlugin({
+      mermaid: true,
     }),
   ],
 

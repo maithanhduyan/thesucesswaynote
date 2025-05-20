@@ -8,6 +8,12 @@ tag:
 
 **Người Thành Đạt Và Nghệ Thuật Im Lặng**
 
+<audio controls>
+
+  <source src="/media/matdaytamden.mp3" type="audio/mpeg">
+  Trình duyệt của bạn không hỗ trợ phần tử audio.
+</audio>
+
 Nếu bạn để ý kỹ những người thành đạt và có địa vị cao xung quanh mình, bạn sẽ thấy họ có một điểm chung: dù biết rõ có những việc hoặc có những người không ổn, họ không nhắc nhở, không chỉ bảo, cũng không lên lớp. _Người mạnh mẽ chọn cách tha thứ, người khôn ngoan chọn cách im lặng. Chỉ có kẻ ngu ngốc mới đi dạy đời._ Nói cách khác, người thông minh không cần dạy, người ngu dốt không thể dạy, người cứng đầu cũng không nghe. Hãy kiềm chế bản thân, đừng cố gắng sửa sai người khác. Từ bỏ mong muốn thay đổi họ.
 
 Bạn rất khó thuyết phục một người trưởng thành, bởi vì những đạo lý mà họ không học được trong hai ba mươi năm, bạn nhồi nhét vào đầu họ cũng không có tác dụng. Hãy biết rằng, điều thực sự có thể khiến một người tỉnh ngộ, nhìn thấu thế sự, chỉ có trải nghiệm, mất mát, hối hận và tổn thương. Không có gì khác. Phải hiểu rằng: _Đạo không bán rẻ, pháp không truyền nhẹ. Thầy thuốc không gõ cửa, thầy dạy không đi cùng đường. Mưa trời dù lớn cũng không tưới được cỏ không rễ. Đạo pháp dù rộng cũng chỉ cứu được người có duyên._

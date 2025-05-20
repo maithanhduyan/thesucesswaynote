@@ -12,14 +12,14 @@ Tôi có một đoạn văn bản tiếng Việt cần được chỉnh sửa v�
 - Đầu tiên hãy đọc toàn bộ nội dung để hiểu về chủ đề.
 - Sửa lỗi chính tả, dấu câu.
 - Đặt dấu câu hợp lý, xuống dòng đúng ngữ cảnh, tách đoạn rõ ràng, để tăng tính mạch lạc.
-- Áp dụng in đậm cho tiêu đề chính, in nghiêng cho ví dụ hoặc trích dẫn.
+- Áp dụng header cho tiêu đề chính (h1:#, h2:##, h3:###), in nghiêng cho ví dụ hoặc trích dẫn.
 - Đảm bảo cấu trúc phân cấp rõ ràng (tiêu đề chương → mục con → nội dung chi tiết).
 - Giữ nguyên thông điệp và ý nghĩa gốc, không thêm/bớt nội dung.
 - Trả lời bằng cách viết lại toàn bộ đoạn văn đã định dạng theo yêu cầu.
 Đoạn văn cần chỉnh sửa sau:
 """
 
-footer ="""
+footer = """
 """
 # Đọc nội dung file hiện có
 with open(filename, "r", encoding="utf-8") as f:
