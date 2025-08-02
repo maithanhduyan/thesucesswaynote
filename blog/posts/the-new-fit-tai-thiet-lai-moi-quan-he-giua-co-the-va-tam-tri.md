@@ -36,15 +36,15 @@ Tôi đã từng gặp hàng trăm người bước chân vào phòng tập vớ
 
 Sở hữu ở đây không phải là chuyện bỏ tiền ra mua gói tập đắt tiền hay thuê huấn luyện viên cá nhân. Sở hữu nghĩa là:
 
-- Khi đau, bạn không bỏ cuộc
-- Khi chán, bạn vẫn tiếp tục
-- Khi không thấy kết quả, bạn vẫn giữ vững niềm tin
+- Khi đau, bạn không bỏ cuộc;
+- Khi chán, bạn vẫn tiếp tục;
+- Khi không thấy kết quả, bạn vẫn giữ vững niềm tin.
 
 Tôi từng là một chàng trai gầy gò, người lúc nào cũng ẩn sau dáng đi khép nép và ánh mắt tránh né. Chẳng có gì đáng tự hào ngoài những cái gật đầu lịch sự và giấc mơ được trông như những người đàn ông vạm vỡ trên bìa tạp chí thể hình.
 
 Nhưng giấc mơ ấy không tự nhiên thành hiện thực. Nó bắt đầu từ một quyết định: **"Tôi sẽ tự chịu trách nhiệm cho cơ thể mình."**
 
-Ngày đầu tiên bước vào phòng gym, tôi không biết khởi động, nhìn thấy một ông lớn tuổi nâng tạ rất nặng, tôi cũng thử và bị chật khớp vai. Cái đau đó nhắc tôi rằng: **bạn không thể sở hữu hành trình nếu không biết mình đang làm gì.**
+Ngày đầu tiên bước vào phòng gym, tôi không biết khởi động, nhìn thấy một ông lớn tuổi nâng tạ rất nặng, tôi cũng thử và bị trật khớp vai. Cái đau đó nhắc tôi rằng: **bạn không thể sở hữu hành trình nếu không biết mình đang làm gì.**
 
 Thể hình không phải là cuộc thi xem ai nâng được nhiều hơn. Nó là hành trình của từng cm cơ thể bạn phản hồi lại chính bạn. Nó là lời đối thoại không lời giữa bạn với bản thân trong gương mỗi ngày.
 
@@ -86,9 +86,9 @@ Từ đó, anh ta bắt đầu đọc về dinh dưỡng, học cách nấu ăn,
 
 Sở hữu hành trình thể hình không phải là chuyện vĩ đại. Nó là chuyện rất nhỏ nhưng lặp lại mỗi ngày:
 
-- Bạn chọn cầu thang thay vì thang máy
-- Bạn uống nước thay vì nước ngọt
-- Bạn đi ngủ đúng giờ thay vì xem thêm một tập phim
+- Bạn chọn cầu thang thay vì thang máy;
+- Bạn uống nước thay vì nước ngọt;
+- Bạn đi ngủ đúng giờ thay vì xem thêm một tập phim;
 - Bạn kiên trì không phải vì có ai cổ vũ mà vì bạn biết cơ thể này là của bạn. Không ai khác.
 
 ### Khi Bạn Nản Lòng
@@ -97,18 +97,18 @@ Tôi biết sẽ có lúc bạn nản. Bạn sẽ tập luyện chăm chỉ mà 
 
 Câu trả lời là: nếu bạn thật sự sở hữu hành trình này thì không phút giây nào là lãng phí. Vì:
 
-- Mỗi giọt mồ hôi là một lời cam kết
-- Mỗi lần thất bại là một bài học
-- Mỗi vết đau là một ký hiệu trên bản đồ tiến hóa của bạn
+- Mỗi giọt mồ hôi là một lời cam kết;
+- Mỗi lần thất bại là một bài học;
+- Mỗi vết đau là một ký hiệu trên bản đồ tiến hóa của bạn.
 
 ### Sự Chuyển Hóa Thực Sự
 
 Và rồi một ngày bạn sẽ nhìn lại và nhận ra bạn không còn là người cũ. Không chỉ cơ bắp thay đổi mà cả cách bạn nhìn cuộc đời:
 
-- Bạn đi đứng tự tin hơn
-- Bạn ăn uống có ý thức hơn
-- Bạn biết khi nào nên nghỉ và khi nào nên tiến
-- Bạn không còn chạy theo mục tiêu mà sống trong từng bước chân của hành trình
+- Bạn đi đứng tự tin hơn;
+- Bạn ăn uống có ý thức hơn;
+- Bạn biết khi nào nên nghỉ và khi nào nên tiến;
+- Bạn không còn chạy theo mục tiêu mà sống trong từng bước chân của hành trình.
 
 **Đó là lúc bạn đã thật sự sở hữu cơ thể mình.**
 
@@ -130,7 +130,7 @@ Có lần tôi gặp một người đàn ông tên Mark. Anh từng là vận �
 
 Nhưng Mark không quan tâm tới điều đó. Anh chỉ hỏi: "Tôi có thể làm được gì?" Rồi mỗi ngày anh học cách co từng ngón tay, rồi cử động nhẹ cổ tay. Rồi đến khi anh chống đẩy được một cái, anh đã khóc như một đứa trẻ.
 
-Sở hữu với anh không còn là chuyện có sáu múi hay chạy 10km mà là **lấy lại từng chút chủ quyền với cơ thể mà số phận đã cố tước đi.**
+Sở hữu với anh không còn là chuyện có cơ bụng sáu múi hay chạy 10km mà là **lấy lại từng chút chủ quyền với cơ thể mà số phận đã cố tước đi.**
 
 ### Hành Trình Độc Nhất
 
@@ -146,7 +146,7 @@ Bạn hiểu rằng **thể hình không phải về hình thể mà là về nh
 
 ### Thông Điệp Cuối Chương
 
-Nếu tôi phải tóm gọn lại chương đầu tiên này, tôi sẽ nói thế này: Đừng bắt đầu hành trình thể hình bằng việc hỏi "Làm thế nào để có cơ bụng số 11?" mà hãy hỏi: **"Làm thế nào để tôi trở thành người không từ bỏ dù không ai để ý đến tôi?"**
+Nếu tôi phải tóm gọn lại chương đầu tiên này, tôi sẽ nói thế này: Đừng bắt đầu hành trình thể hình bằng việc hỏi "Làm thế nào để có cơ bụng đẹp?" mà hãy hỏi: **"Làm thế nào để tôi trở thành người không từ bỏ dù không ai để ý đến tôi?"**
 
 Vì đó mới là lúc bạn bắt đầu thật sự. Bạn không cần ánh đèn, bạn cần gương chiếu vào chính mình. Và nếu bạn đủ can đảm để nhìn lâu vào nó, không tránh né, không bào chữa, thì tôi hứa bạn sẽ thay đổi.
 
@@ -158,7 +158,7 @@ Và không chỉ là cơ thể. Hành trình này, ngay cả khi đầy mồ hô
 
 Khi bạn vẫn còn trẻ, mọi thứ dễ dàng hơn. Bạn ăn vài miếng thịt gà nướng, đạp xe vài vòng quanh khu phố và sáng hôm sau soi gương đã thấy bụng thon gọn như quảng cáo đồ thể thao.
 
-Nhưng rồi một ngày kia bạn bước vào tuổi 40, bạn nhận ra rằng việc chạy bộ buổi sáng không còn đủ để đốt đi cảm giác uể oải sau mỗi bữa tối. Và cơn đau lưng khi cúi xuống buộc dày giày không còn biến mất sau một giấc ngủ.
+Nhưng rồi một ngày kia bạn bước vào tuổi 40, bạn nhận ra rằng việc chạy bộ buổi sáng không còn đủ để đốt đi cảm giác uể oải sau mỗi bữa tối. Và cơn đau lưng khi cúi xuống buộc dây giày không còn biến mất sau một giấc ngủ.
 
 Đó không phải là do bạn yếu đi, đó là do **cơ thể bạn đã thay đổi và bạn vẫn còn đang dùng phiên bản cũ của bản thân để sống trong một thực tại mới.**
 
@@ -328,9 +328,9 @@ Tôi đã thấy điều này quá nhiều lần trong đời huấn luyện. Nh
 
 Nhưng chỉ sau vài bài kiểm tra đơn giản, họ không thể:
 
-- Ngồi xổm mà không nhón gót
-- Giữ thăng bằng một chân quá 10 giây
-- Chạm tay vào đầu gối mà không cong lưng
+- Ngồi xổm mà không nhón gót;
+- Giữ thăng bằng một chân quá 10 giây;
+- Chạm tay vào đầu gối mà không cong lưng.
 
 **Cơ thể họ chưa sẵn sàng** và nếu họ cứ cố gắng luyện tập như thể mình đang sẵn sàng, họ sẽ trả giá.
 
@@ -489,7 +489,7 @@ Tập luyện sức mạnh không đồng nghĩa với việc bạn phải trở
 
 - Bạn có thể đứng lên từ tư thế ngồi mà không cần chống tay?
 - Bạn có thể bế con nhỏ mà không thấy lưng mình đau buốt?
-- Bạn có thể đứng lâu, đi bộ xa mà không cảm thấy hai chân mỏi dã rời?
+- Bạn có thể đứng lâu, đi bộ xa mà không cảm thấy hai chân mỏi rã rời?
 
 Nếu không thì **cơ thể bạn đang mất dần khả năng cốt lõi để tồn tại.**
 
@@ -599,7 +599,7 @@ Mỗi người có một ngưỡng sức mạnh khác nhau. **Bạn không cần
 
 Đừng để những video trên mạng làm bạn nghĩ rằng sức mạnh là màn biểu diễn. **Sức mạnh là kỹ năng âm thầm, là cam kết với chính mình rằng:**
 
-"Tôi sẽ không để cơ thể này dệu dã mà không làm gì. Tôi sẽ không chấp nhận sự suy giảm như một điều hiển nhiên. Tôi sẽ chiến đấu - không phải với ai - mà với sự thoái hóa đang âm thầm diễn ra mỗi ngày."
+"Tôi sẽ không để cơ thể này rệu rã mà không làm gì. Tôi sẽ không chấp nhận sự suy giảm như một điều hiển nhiên. Tôi sẽ chiến đấu - không phải với ai - mà với sự thoái hóa đang âm thầm diễn ra mỗi ngày."
 
 ### Chân Lý Không Đổi
 
@@ -657,7 +657,7 @@ Tôi đã từng kiểm tra một người đàn ông 38 tuổi, dân văn phòn
 Chúng tôi tiếp tục:
 
 - Bài ngồi xổm sâu mà không nhấc gót chân khỏi sàn: **anh không làm được**
-- Bài plank giữ trong một phút với lưng trung lập: **thất bại ở giây thứ 40**, cổ rủ xuống, bụng trùng
+- Bài plank giữ trong một phút với lưng trung lập: **thất bại ở giây thứ 40**, cổ rủ xuống, bụng chùng
 
 Và tôi hỏi anh: **"Anh tập gym 3 năm để làm gì?"**
 
