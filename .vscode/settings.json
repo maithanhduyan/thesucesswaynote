@@ -1,5 +1,5 @@
 {
-  "editor.maxTokenizationLineLength": 60000,
+  "editor.maxTokenizationLineLength": 120000,
   // Cấu hình cho Material Icon Theme
   "workbench.iconTheme": "material-icon-theme",
   "editor.formatOnSave": true,
