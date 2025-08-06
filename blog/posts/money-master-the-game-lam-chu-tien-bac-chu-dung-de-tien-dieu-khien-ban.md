@@ -1,5 +1,5 @@
 ---
-date: 2025-08-01
+date: 2025-08-02
 category:
   - tai-chinh-ca-nhan
   - dau-tu
@@ -9,10 +9,12 @@ tag:
   - tu-do-tai-chinh
   - dau-tu-thong-minh
   - quan-ly-tai-chinh
+  - phan-bo-tai-san
+  - all-season-portfolio
 archive: true
 ---
 
-# Money Master the Game - Làm Chủ Tiền Bạc, Chớ Đừng Để Tiền Điều Khiển Bạn
+# Money Master the Game: Lộ Trình Chinh Phục Tự Do Tài Chính
 
 > Bí quyết của sự giàu có rất đơn giản: hãy tìm cách làm nhiều hơn cho người khác, trở nên có giá trị hơn, làm nhiều hơn, cho đi nhiều hơn, trở nên tốt hơn, phục vụ nhiều hơn. - Tony Robbins
 
