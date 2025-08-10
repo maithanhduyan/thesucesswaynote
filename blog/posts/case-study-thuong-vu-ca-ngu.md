@@ -7,7 +7,7 @@ tag:
   - kinh-te
 ---
 
-[![Doanh nhân người Mỹ 13 năm đau đáu vì “thương vụ cá ngừ Việt Nam”](https://img.youtube.com/vi/c8rS0L6lA9g/0.jpg)](https://www.youtube.com/watch?v=c8rS0L6lA9g)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c8rS0L6lA9g?si=FR-pR4T8Z0pTY5KU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Tôi đang đọc case study về vụ việc kéo dài 13 năm liên quan đến công ty USBC (có lúc ghi là USPC/UFPC) ở Bình Dương. Nguyên đơn là ông Byron Scott McLent (có chỗ ghi McLent/Mclow/Byen) và bà Nguyễn Thị Minh Trang.
 Trước tiên, tôi cần hệ thống lại dòng thời gian sự kiện:
