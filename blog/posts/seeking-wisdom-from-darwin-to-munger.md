@@ -6,7 +6,12 @@ tag:
   - audiobook
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JQ4bavMQHu4?si=HDyj3SXYWJHDbI9j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![](https://img.youtube.com/vi/JQ4bavMQHu4/0.jpg)](https://www.youtube.com/watch?v=JQ4bavMQHu4)
+
+<audio controls>
+  <source src="/media/Gỡ_Rối_Tư_Duy__Tránh_Bẫy_Thông_Thường_Để_Ra_Quyết_Định_Sáng_Suốt_Hơn.m4a" type="audio/mpeg">
+  Trình duyệt của bạn không hỗ trợ phần tử audio.
+</audio>
 
 ### **TÓM TẮT SÁCH "SEEKING WISDOM: FROM DARWIN TO MUNGER"**
 
