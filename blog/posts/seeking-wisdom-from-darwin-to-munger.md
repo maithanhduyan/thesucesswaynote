@@ -9,7 +9,7 @@ tag:
 [![](https://img.youtube.com/vi/JQ4bavMQHu4/0.jpg)](https://www.youtube.com/watch?v=JQ4bavMQHu4)
 
 <audio controls>
-  <source src="/media/Gỡ_Rối_Tư_Duy__Tránh_Bẫy_Thông_Thường_Để_Ra_Quyết_Định_Sáng_Suốt_Hơn.m4a" type="audio/mpeg">
+  <source src="/media/seeking-wisdom-from-darwin-to-munger.m4a" type="audio/mpeg">
   Trình duyệt của bạn không hỗ trợ phần tử audio.
 </audio>
 
