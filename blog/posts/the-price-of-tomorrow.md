@@ -7,6 +7,8 @@ tag:
   - the-price-of-tomorrow
 ---
 
+[![](https://img.youtube.com/vi/a-pfRi3Gr5w/0.jpg)](https://www.youtube.com/watch?v=a-pfRi3Gr5w)
+
 # **Tóm Tắt Sách: The Price of Tomorrow - Cái Giá Của Tương Lai**
 
 ---
