@@ -1,3 +1,11 @@
+---
+date: 2025-09-18
+category:
+  - audiobook
+tag:
+  - audiobook
+---
+
 # Có thể làm giàu bằng đầu tư hay không? Câu chuyện của Warren Buffett
 
 **Cổ thần Warren Buffett đã đầu tư vào Coca-Cola, nắm giữ 400 triệu cổ phiếu của công ty nước giải khát này từ năm 1988, cách đây hơn 35 năm. Cổ phiếu của Coca-Cola đã tăng 1700%, và với 400 triệu cổ phiếu trong tay, Warren Buffett nắm giữ 22,7 tỷ đô la Mỹ, tương đương gần 530.000 tỷ đồng. Có người nói rằng Warren Buffett giàu là nhờ đầu tư, nhưng giới chuyên gia tài chính lại khẳng định rằng không thể làm giàu bằng đầu tư nếu thiếu một yếu tố quan trọng. Đó là thứ gì?**
@@ -5,17 +13,17 @@
 **Liệu có thể làm giàu bằng đầu tư hay không?**  
 Giới chuyên gia nhận định rằng để trở thành người giàu có, không thể chỉ dựa vào đầu tư. Sự thật là nhà đầu tư huyền thoại Warren Buffett đã đạt được tự do tài chính từ lâu trước khi thành lập công ty Berkshire Hathaway và mua cổ phiếu Coca-Cola. **Trở thành người giàu không thể dựa vào đầu tư**, bởi vì trước tiên, bạn cần có vốn để đầu tư. Nếu vốn của bạn ít, cho dù bạn kiếm được bao nhiêu tiền cũng không đủ để bạn nghỉ hưu.
 
-*Ví dụ:* Nếu bạn đầu tư vào chỉ số S&P 500 của thị trường chứng khoán Mỹ, tỷ suất lợi nhuận trung bình dài hạn khoảng 9,9%. Điều này có nghĩa là nếu bạn đầu tư 10.000 đô la Mỹ với tỷ suất lợi nhuận này, bạn cần khoảng 74 năm để tích lũy được khoảng 1 triệu đô la Mỹ, tức là hơn 24 tỷ đồng. Nói cách khác, dù bạn bắt đầu từ năm 15 tuổi, bạn cũng phải đợi đến năm 89 tuổi mới có thể trở thành triệu phú.
+_Ví dụ:_ Nếu bạn đầu tư vào chỉ số S&P 500 của thị trường chứng khoán Mỹ, tỷ suất lợi nhuận trung bình dài hạn khoảng 9,9%. Điều này có nghĩa là nếu bạn đầu tư 10.000 đô la Mỹ với tỷ suất lợi nhuận này, bạn cần khoảng 74 năm để tích lũy được khoảng 1 triệu đô la Mỹ, tức là hơn 24 tỷ đồng. Nói cách khác, dù bạn bắt đầu từ năm 15 tuổi, bạn cũng phải đợi đến năm 89 tuổi mới có thể trở thành triệu phú.
 
 **Tất nhiên, nếu bạn đặt mục tiêu nghỉ hưu trong vòng 10 năm và biến 10.000 đô la Mỹ thành 10 triệu đô la Mỹ, thì bạn cần tỷ suất lợi nhuận hàng năm là 100%.**  
-*Tại sao là 100%?* Bởi vì tăng 100% là tăng gấp đôi, và 2 mũ 10 là hơn 1000. Như vậy, 10.000 đô la sẽ trở thành 10 triệu đô la nếu bạn đạt được tỷ suất lợi nhuận cao như vậy. Một người bạn của tôi nói vui rằng: *"Chỉ có làm cường đạo mới có tỷ suất như vậy."* Trong thực tế, nếu có mức tỷ suất đó, bạn phải chịu rủi ro rất lớn. Các công ty có tỷ suất lợi nhuận hàng năm 100% thường là các công ty khởi nghiệp có tốc độ tăng trưởng cao, hoặc bạn cần một tầm nhìn cực kỳ tốt và cực kỳ may mắn. Nhưng khả năng thành công của những công ty này là gì? Thông thường, rất khó để dự đoán.
+_Tại sao là 100%?_ Bởi vì tăng 100% là tăng gấp đôi, và 2 mũ 10 là hơn 1000. Như vậy, 10.000 đô la sẽ trở thành 10 triệu đô la nếu bạn đạt được tỷ suất lợi nhuận cao như vậy. Một người bạn của tôi nói vui rằng: _"Chỉ có làm cường đạo mới có tỷ suất như vậy."_ Trong thực tế, nếu có mức tỷ suất đó, bạn phải chịu rủi ro rất lớn. Các công ty có tỷ suất lợi nhuận hàng năm 100% thường là các công ty khởi nghiệp có tốc độ tăng trưởng cao, hoặc bạn cần một tầm nhìn cực kỳ tốt và cực kỳ may mắn. Nhưng khả năng thành công của những công ty này là gì? Thông thường, rất khó để dự đoán.
 
 **Ngay cả nhà đầu tư huyền thoại như Peter Lynch cũng chỉ có tỷ suất lợi nhuận dài hạn là 29%, còn Warren Buffett là 20%.** Với tỷ suất lợi nhuận này, cả thế giới đã cúi đầu ngả mũ. Ngoài ra, nói một cách thực tế, có người thực sự rất kém trong việc đầu tư. Trong 15 năm qua, trong số các quỹ lớn chủ động cố gắng nắm bắt xu hướng của thị trường, 90% tỷ suất lợi nhuận của họ thua kém chỉ số S&P 500. Những nhà quản lý quỹ được coi là chuyên nghiệp nhất đã thực hiện rất nhiều phân tích và báo cáo, nhưng vẫn không thể vượt qua được chỉ số của thị trường.
 
 **Có người thắc mắc rằng: Nếu tài sản của người giàu không đến từ đầu tư, vậy thì nó đến từ đâu?**  
 Theo nghiên cứu, nguồn tài sản lớn nhất của người giàu là từ công ty tư nhân của họ, sau đó mới đến đầu tư và tài sản tài chính. Trong khi đó, trong số 50% người bình thường, chỉ có 1% sở hữu cổ phần công ty tư nhân, hoặc tỷ lệ đầu tư vào tài sản tài chính rất ít. Tỷ lệ này chỉ tăng lên khi tài sản của họ tăng, và đầu tư vào công ty tư nhân cũng như tài sản tài chính cũng tăng lên theo.
 
-**Vậy để trở thành người giàu, bạn vẫn phải dựa vào việc sử dụng sản phẩm hoặc dịch vụ của mình để giải quyết vấn đề của người khác trên thế giới.** Nó giống như một câu nói mà chúng ta hay nghe: *"Phi thương bất phú, không kinh doanh thì không giàu."* Để trở thành 1% hàng đầu, bạn phải dựa vào kinh doanh. Điều này không hề dễ dàng, nhưng câu chuyện của cổ thần Warren Buffett sẽ cho bạn một gợi ý.
+**Vậy để trở thành người giàu, bạn vẫn phải dựa vào việc sử dụng sản phẩm hoặc dịch vụ của mình để giải quyết vấn đề của người khác trên thế giới.** Nó giống như một câu nói mà chúng ta hay nghe: _"Phi thương bất phú, không kinh doanh thì không giàu."_ Để trở thành 1% hàng đầu, bạn phải dựa vào kinh doanh. Điều này không hề dễ dàng, nhưng câu chuyện của cổ thần Warren Buffett sẽ cho bạn một gợi ý.
 
 **Trước khi tiếp tục bình luận, kính mời quý khán giả hãy Like và Comment thật nhiều để chúng tôi lan tỏa nội dung đến cộng đồng.** Mỗi một Like và Comment của quý vị sẽ giúp chúng tôi đi được xa hơn, để sớm đạt được mục tiêu 30k Sub.
 
@@ -40,11 +48,12 @@ Ban đầu, Warren Buffett không có vốn để đầu tư vào cổ phiếu C
 **Bước thứ hai là How (Làm thế nào):**  
 Nếu bạn 35 tuổi, dù bạn có thu nhập hàng năm là 70.000 đô la Mỹ đến 100.000 đô la Mỹ, sau khi trừ chi phí, mỗi năm bạn chỉ có thể tiết kiệm khoảng 20.000 đô la Mỹ. Bạn cũng phải tiết kiệm đủ 50 năm mới có được 1 triệu đô la. Đây là còn chưa tính tới lạm phát làm giảm giá trị tiền của bạn. Vậy nên, người bình thường chỉ dựa vào tiết kiệm hàng tháng thì cơ bản là không thể đạt được mục tiêu tự do tài chính sớm.
 
-**Một công việc không thể khiến bạn tự do tài chính. Bạn có thể làm bốn điều sau:**  
-1. Tăng thu nhập.  
-2. Giảm chi tiêu.  
-3. Giảm mạnh giá mua tự do tài chính của bạn.  
-4. Hoặc thậm chí từ bỏ tự do tài chính.  
+**Một công việc không thể khiến bạn tự do tài chính. Bạn có thể làm bốn điều sau:**
+
+1. Tăng thu nhập.
+2. Giảm chi tiêu.
+3. Giảm mạnh giá mua tự do tài chính của bạn.
+4. Hoặc thậm chí từ bỏ tự do tài chính.
 
 Nếu bạn không có ý định từ bỏ tự do tài chính, bạn có thể lựa chọn một trong ba phương án trên. Tuy nhiên, dù chọn phương án nào, cũng có nhiều việc cần phải làm.
 
@@ -57,9 +66,10 @@ Quy tắc đầu tiên của quản lý tài chính là quy tắc 50-30-20: 50% 
 **Làm thế nào để kiếm nhiều tiền hơn?**  
 Có người nói là đầu tư mua cổ phiếu hoặc mua nhà. Làm việc ít thời gian còn phải nghiên cứu cổ phiếu và bất động sản, hay chỉ đơn giản là xem YouTube và lấy mã cổ phiếu trên mạng để đánh cược một lần trong thời gian hạn chế? Giới chuyên gia khuyên bạn nên ngồi xuống và suy nghĩ, viết ra năm cách có thể tăng thu nhập. Việc viết ra giúp bạn ngay lập tức nhận ra điểm yếu của mình. Sau đó, đặt ra những nhiệm vụ hàng ngày khả thi để khắc phục những điểm yếu.
 
-**Ví dụ:**  
-1. Một nguồn thu nhập bổ sung đầu tiên là làm thêm nghề phụ, nghề tay trái. Nếu bạn giỏi thiết kế nhà cửa, bạn có thể bán những bản vẽ, những mẫu thiết kế để kiếm thêm thu nhập. Vậy nhiệm vụ hàng ngày của bạn là dành 30 phút mỗi ngày để vẽ và thiết kế.  
-2. Một cách khác là tham gia các khóa học khởi nghiệp, đọc sách về marketing và kinh doanh, tham gia các sự kiện trong ngành để kết nối với những người trong ngành.  
+**Ví dụ:**
+
+1. Một nguồn thu nhập bổ sung đầu tiên là làm thêm nghề phụ, nghề tay trái. Nếu bạn giỏi thiết kế nhà cửa, bạn có thể bán những bản vẽ, những mẫu thiết kế để kiếm thêm thu nhập. Vậy nhiệm vụ hàng ngày của bạn là dành 30 phút mỗi ngày để vẽ và thiết kế.
+2. Một cách khác là tham gia các khóa học khởi nghiệp, đọc sách về marketing và kinh doanh, tham gia các sự kiện trong ngành để kết nối với những người trong ngành.
 
 Nếu bạn muốn tăng thu nhập bằng cách thăng chức, thì nhiệm vụ hàng ngày của bạn là làm việc chăm chỉ hơn những người khác để đạt được hiệu suất tốt hơn, học tập nâng cao năng lực, tăng cường tính cạnh tranh của mình. Nếu bạn muốn đầu tư cổ phiếu để kiếm thu nhập thụ động, nhiệm vụ hàng ngày của bạn là học về đầu tư, học về thị trường, hiểu thế nào là phân bổ tài sản.
 
@@ -89,20 +99,20 @@ Xét đến tình hình kinh tế toàn cầu đang bất ổn hiện nay, nơi 
 **Một lưu ý rằng bất động sản là tài sản không thể di chuyển, tức là tính thanh khoản rất thấp và thời gian đầu tư rất dài.** Vậy nên, dù bạn đầu tư vào bất động sản ở bất kỳ quốc gia nào, bạn cũng phải xem xét sự an toàn của việc giữ vốn lâu dài ở khu vực đó, cũng như tình hình kinh tế và tình hình chính trị ở khu vực đó. Trong các thị trường chứng khoán nước ngoài, Ấn Độ và Nhật Bản là những khu vực nóng. Đối với một rổ ngoại tệ, trong bối cảnh kỳ vọng giảm lãi suất ở Mỹ, thì chênh lệch lãi suất sẽ giảm, điều này hỗ trợ cho các loại ngoại tệ so với đồng đô la Mỹ. Đồng Yên Nhật đang rất rẻ, nhiều người sẽ cân nhắc mua một ít để phòng ngừa rủi ro ngoại hối khi đồng đô la Mỹ giảm lãi suất.
 
 **Phó tướng của ông Warren Buffett là ông Charlie Munger nói về tiết kiệm, còn chủ tướng Warren Buffett thì nhìn nhận như thế nào về đầu tư?**  
-Warren Buffett chỉ ra nguyên tắc đầu tư trăm trận trăm thắng. Ông được mệnh danh là cổ thần, và có một câu nói rất nổi tiếng: *"Khi người ta tham lam, tôi sợ hãi; khi người ta sợ hãi, tôi tham lam."* Có một từ trong tiếng Anh mô tả rất chính xác tâm lý của các nhà đầu tư, đó là **FOMO (Fear of Missing Out)**, tức là nỗi sợ bị bỏ lỡ cơ hội. Nhà đầu tư sợ bỏ lỡ cơ hội hơn là mua với giá đắt. Điều này khá giống với Tesla 2 năm trước, bởi vì xe điện có một tương lai tuyệt vời, thời điểm đó Tesla trên cơ bản là lựa chọn duy nhất, ngay cả khi định giá của nó rất cao so với các hãng xe khác, có thể nói là một con số thiên văn, nhưng các quỹ vẫn tiếp tục mua. Hội chứng FOMO của những người này đã đẩy giá cổ phiếu của Tesla lên còn cao hơn nữa.
+Warren Buffett chỉ ra nguyên tắc đầu tư trăm trận trăm thắng. Ông được mệnh danh là cổ thần, và có một câu nói rất nổi tiếng: _"Khi người ta tham lam, tôi sợ hãi; khi người ta sợ hãi, tôi tham lam."_ Có một từ trong tiếng Anh mô tả rất chính xác tâm lý của các nhà đầu tư, đó là **FOMO (Fear of Missing Out)**, tức là nỗi sợ bị bỏ lỡ cơ hội. Nhà đầu tư sợ bỏ lỡ cơ hội hơn là mua với giá đắt. Điều này khá giống với Tesla 2 năm trước, bởi vì xe điện có một tương lai tuyệt vời, thời điểm đó Tesla trên cơ bản là lựa chọn duy nhất, ngay cả khi định giá của nó rất cao so với các hãng xe khác, có thể nói là một con số thiên văn, nhưng các quỹ vẫn tiếp tục mua. Hội chứng FOMO của những người này đã đẩy giá cổ phiếu của Tesla lên còn cao hơn nữa.
 
 **Vậy thì nguyên tắc đầu tư là gì?**  
 Nguyên tắc thứ nhất: **Đầu tư phải dùng tiền nhàn rỗi, nhàn rỗi đến độ 20 đến 30 năm sau không dùng đến.** Ở Mỹ, công ty có kế hoạch giúp bạn nghỉ hưu, công ty sẽ trích một phần tiền trong lương của bạn để đầu tư. Khi đến tuổi 60, bạn sẽ nhận lại. Điều này có nghĩa là họ trích tiền nhàn rỗi của bạn để đầu tư, mà tiền này bạn không dùng trong ba mươi mấy năm. Tại sao lại lấy tiền nhàn rỗi để đầu tư? Bởi vì dao động của cổ phiếu trong thời gian ngắn là rất lớn. Nếu dùng tiền sinh hoạt hàng ngày để đầu tư, khi cổ phiếu giảm, bạn không còn tiền để trang trải cuộc sống, thậm chí mất mà không lấy lại được.
 
 **Nguyên tắc thứ hai: Đừng mua bán cổ phiếu trong thời gian ngắn.**  
-Có thể hình dung như thế này: Có cổ phiếu tăng phi mã, nhà đầu tư mua nhưng lúc đó nó đã lên đỉnh, ngày hôm sau lại bắt đầu giảm. Cứ bị nhiều lần như vậy, khiến họ tổn thất càng ngày càng lớn. Việc mua bán cổ phiếu trong thời gian ngắn là một nguy cơ lớn. Warren Buffett từng có một câu nói rất nổi tiếng: *"Nếu bạn không muốn giữ một cổ phiếu trong 10 năm, bạn sẽ không muốn giữ nó trong 10 phút."* Phẩm chất quan trọng bậc nhất để bạn không bị mất tiền khi đầu tư chính là kiên nhẫn. Nhất định phải kiên nhẫn.
+Có thể hình dung như thế này: Có cổ phiếu tăng phi mã, nhà đầu tư mua nhưng lúc đó nó đã lên đỉnh, ngày hôm sau lại bắt đầu giảm. Cứ bị nhiều lần như vậy, khiến họ tổn thất càng ngày càng lớn. Việc mua bán cổ phiếu trong thời gian ngắn là một nguy cơ lớn. Warren Buffett từng có một câu nói rất nổi tiếng: _"Nếu bạn không muốn giữ một cổ phiếu trong 10 năm, bạn sẽ không muốn giữ nó trong 10 phút."_ Phẩm chất quan trọng bậc nhất để bạn không bị mất tiền khi đầu tư chính là kiên nhẫn. Nhất định phải kiên nhẫn.
 
 **Từ nguyên tắc đầu tư ở trên, Warren Buffett đã đưa ra một vài kiến nghị:**  
 **Kiến nghị thứ nhất: Đừng bao giờ mất tiền.**  
 **Kiến nghị thứ hai: Vĩnh viễn không được quên kiến nghị thứ nhất.**  
-Nói tóm lại, đừng bao giờ mất tiền. *"Never lose money."* Đến đây, một số người nghĩ rằng không mất tiền khi đầu tư là điều không thể. Chẳng phải Warren Buffett từng mất 23 tỷ đô la Mỹ (khoảng 550.000 tỷ đồng) trong đợt khủng hoảng năm 2008 hay sao? Nhưng trên thực tế, ông mất tiền là mất tiền trên sổ sách, chứ không phải mất tiền mặt thật sự. Vậy thì điều Warren Buffett muốn nói là gì? Chính là không được mang cái tâm thái nhảy động hoặc cái tâm đánh bạc khi đầu tư, kiểu như: *"Okay, để tôi cược một ván vào cổ phiếu này."* Nếu bạn mang một tâm thái như vậy, Warren Buffett cho rằng bạn nhất định thua cuộc. Warren Buffett từng nói: *"Đừng bao giờ mất tiền,"* là để khuyên rằng khi bạn tiến vào đầu tư, bạn nhất định phải rõ ràng những nguy hiểm hay rủi ro là gì.
+Nói tóm lại, đừng bao giờ mất tiền. _"Never lose money."_ Đến đây, một số người nghĩ rằng không mất tiền khi đầu tư là điều không thể. Chẳng phải Warren Buffett từng mất 23 tỷ đô la Mỹ (khoảng 550.000 tỷ đồng) trong đợt khủng hoảng năm 2008 hay sao? Nhưng trên thực tế, ông mất tiền là mất tiền trên sổ sách, chứ không phải mất tiền mặt thật sự. Vậy thì điều Warren Buffett muốn nói là gì? Chính là không được mang cái tâm thái nhảy động hoặc cái tâm đánh bạc khi đầu tư, kiểu như: _"Okay, để tôi cược một ván vào cổ phiếu này."_ Nếu bạn mang một tâm thái như vậy, Warren Buffett cho rằng bạn nhất định thua cuộc. Warren Buffett từng nói: _"Đừng bao giờ mất tiền,"_ là để khuyên rằng khi bạn tiến vào đầu tư, bạn nhất định phải rõ ràng những nguy hiểm hay rủi ro là gì.
 
-**Trước khi đầu tư cổ phiếu, Warren Buffett nghiên cứu rất chi tiết, cho đến khi ông lý giải được vận hành mô hình lợi nhuận, cho đến viễn cảnh tương lai của công ty.** Warren Buffett nói: *"Điều quan trọng khi đầu tư không phải là thông minh, mà là tính khí của người ấy. Thằng ngốc một chút, chậm một chút, nhưng phải nhẫn nại, chứ không phải khôn vặt mà đi lấy cái lợi nhỏ."* Bạn không phải theo số đông, cũng không phải đi ngược số đông, mà là hãy có phán đoán của riêng mình. Nếu làm được việc này, thành công trong thị trường chứng khoán thì bạn phải có **critical thinking (tư duy phản biện)** rất tốt.
+**Trước khi đầu tư cổ phiếu, Warren Buffett nghiên cứu rất chi tiết, cho đến khi ông lý giải được vận hành mô hình lợi nhuận, cho đến viễn cảnh tương lai của công ty.** Warren Buffett nói: _"Điều quan trọng khi đầu tư không phải là thông minh, mà là tính khí của người ấy. Thằng ngốc một chút, chậm một chút, nhưng phải nhẫn nại, chứ không phải khôn vặt mà đi lấy cái lợi nhỏ."_ Bạn không phải theo số đông, cũng không phải đi ngược số đông, mà là hãy có phán đoán của riêng mình. Nếu làm được việc này, thành công trong thị trường chứng khoán thì bạn phải có **critical thinking (tư duy phản biện)** rất tốt.
 
 **Khi đầu tư, Warren Buffett thường nhìn vào lợi nhuận lâu dài mà công ty đó mang lại, chứ không phải xem thị trường hôm nay biến động gì.** Khi cổ phiếu giảm rất mạnh, ông không bán. Cũng như khi cổ phiếu tăng mạnh, ông cũng không mua. Ông không kiếm tiền nhờ cổ phiếu tăng giảm trong thời gian ngắn, mà kiếm được hồi báo của cổ phiếu trong tương lai. Điều này dẫn đến nguyên tắc tiếp theo của Warren Buffett trong đầu tư: **Nhà đầu tư hãy coi công ty như của mình, cùng thăng cùng trầm.** Bạn là người đầu tư, chứ không phải là người đánh bạc. Hãy coi đó như là công việc kinh doanh của mình, là business của mình. Không thể để công ty của mình đóng cửa. Warren Buffett khuyên người đầu tư nên có tâm thái như vậy.
 
@@ -114,10 +124,10 @@ Nói tóm lại, đừng bao giờ mất tiền. *"Never lose money."* Đến đ
 
 **Tỷ số P/E (Price to Earnings Ratio) là chỉ số đánh giá mối quan hệ giữa giá thị trường của cổ phiếu (Price) với thu nhập của một cổ phiếu (EPS).** Ý nghĩa của con số này thể hiện mức giá mà bạn sẵn sàng bỏ ra trong một đồng lợi nhuận thu được từ cổ phiếu. Ví dụ, giả sử giá thị trường của cổ phiếu X là 100 đô la, thu nhập trên mỗi cổ phiếu trong năm của công ty này là 10 đô la. Như vậy, P/E của cổ phiếu X là 10. Để ăn được 1 đồng lợi nhuận, bạn đầu tư 10 đồng. Khi rõ ràng những thông số ấy, thì mới mua cổ phiếu.
 
-**Vậy thì có người sẽ hỏi Warren Buffett rằng: Cầm cổ phiếu bao lâu thì bán?** Ông trả lời rằng: *"Tôi muốn giữ nó vĩnh viễn."* Đây là lý do vì sao Warren Buffett có một câu nói rất nổi tiếng: *"Nếu bạn không muốn giữ một cổ phiếu trong 10 năm, bạn sẽ không muốn giữ nó trong vòng 10 phút."*
+**Vậy thì có người sẽ hỏi Warren Buffett rằng: Cầm cổ phiếu bao lâu thì bán?** Ông trả lời rằng: _"Tôi muốn giữ nó vĩnh viễn."_ Đây là lý do vì sao Warren Buffett có một câu nói rất nổi tiếng: _"Nếu bạn không muốn giữ một cổ phiếu trong 10 năm, bạn sẽ không muốn giữ nó trong vòng 10 phút."_
 
 **Trên đây là những nguyên tắc rất cơ bản của Warren Buffett khi đầu tư, một người bình thường có thể áp dụng được để có thu nhập tốt.** Nhưng khung mắt ở đây là nguyên tắc đầu tư của Warren Buffett rất đơn giản, nhưng tại sao vẫn có người không tuân thủ? Bởi vì con người có nhược điểm trong nhân tính là tham lam và sợ hãi. Thấy người khác kiếm được, mình cũng nổi lòng tham. Thấy số đông mua bán ồ ạt, mình sợ phải chạy theo số đông, trong khi không có chính kiến. Do đó, không nên thấy số đông đang mua bán ồ ạt mà làm theo, khi không dựa vào nguyên tắc cơ bản đó là công ty ấy hoạt động có hiệu quả và mô hình lợi nhuận của họ có ổn định hay không.
 
-**Ở một phương diện khác, con người có giàu hay không thì trong mệnh đã có, bao gồm cả việc kiếm nhiều tiền hoặc ít tiền.** Do đó, không nên mang một tâm thái rằng: *"Tôi phải phát đại tài,"* mà đúng hơn nên đầu tư một cách chính thường, làm việc chính thường, nỗ lực công tác. Dù mua nhà hay cổ phiếu, cũng không được mang cái tâm thái tham lam như thế. Bạn sẽ nhận được hồi báo rất tốt.
+**Ở một phương diện khác, con người có giàu hay không thì trong mệnh đã có, bao gồm cả việc kiếm nhiều tiền hoặc ít tiền.** Do đó, không nên mang một tâm thái rằng: _"Tôi phải phát đại tài,"_ mà đúng hơn nên đầu tư một cách chính thường, làm việc chính thường, nỗ lực công tác. Dù mua nhà hay cổ phiếu, cũng không được mang cái tâm thái tham lam như thế. Bạn sẽ nhận được hồi báo rất tốt.
 
 **Đây là nói một chút về nguyên tắc đầu tư cơ bản và một vài kiến nghị của cổ thần Warren Buffett.**
