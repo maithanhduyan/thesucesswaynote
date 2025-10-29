@@ -7,7 +7,7 @@ tag:
   - ryunosuke-koike
 ---
 
-# **Review Sách: Đừng Giận Nữa Nhé - Cội Nguồn Cơn Giận và Phương Pháp Hóa Giải**
+# **Đừng Giận Nữa Nhé - Cội Nguồn Cơn Giận và Phương Pháp Hóa Giải**
 
 ---
 

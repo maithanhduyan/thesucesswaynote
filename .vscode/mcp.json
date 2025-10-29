@@ -7,10 +7,18 @@
       }
     },
     "chromadb": {
-      "url": "http://localhost:8002/mcp",
-      "headers": {
-        "MCP_API_KEY": "mcp-api-key-2025-super-secure-token"
-      }
+      "command": "uvx",
+      "args": [
+        "chroma-mcp",
+        "--client-type",
+        "cloud",
+        "--tenant",
+        "1e3c9a4a-6826-4de8-a17b-84bf15996019",
+        "--database",
+        "knowlead",
+        "--api-key",
+        "ck-EfspMHsNGa7be5KidujaHiTttCg2MDDdxNoC5hPw9WeT"
+      ]
     }
   }
 }
