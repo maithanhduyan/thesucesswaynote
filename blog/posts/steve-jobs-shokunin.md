@@ -1,3 +1,12 @@
+---
+date: 2025-10-29
+category:
+  - audiobook
+tag:
+  - steve-job
+  - shokunin
+---
+
 # ** Steve Jobs đã học được gì ở Nhật mà khiến ông làm cánh cửa trượt lớn nhất của đại sảnh Cupertino trượt êm, chắc chắn vượt qua tiêu chuẩn về an toàn? **
 
 Câu hỏi này chạm đúng vào một chi tiết rất đặc trưng của Steve Jobs: **tư duy “nghệ thuật trong kỹ thuật”** – mà nguồn gốc sâu xa đến từ **ảnh hưởng của văn hoá Nhật Bản**.
