@@ -8,7 +8,6 @@ tag:
   - carol-dweck
   - tu-duy-phat-trien
   - thanh-cong
-archive: false
 ---
 
 # Mindset: The New Psychology of Success - Carol S. Dweck
