@@ -11,7 +11,7 @@ tag:
 
 ## Lời Mở Đầu
 
-Người cầm quyền không cần hiền và trí, mà cần có quyền thế và địa vị. Hiền và trí không đủ cho đám đông phục tùng, nhưng quyền thế và địa vị thì đủ khuất phục cả người hiền. Cuốn Hàn Phi Tử mà bạn sắp nghe là kết tinh cuối cùng của tư tưởng Pháp gia thời Tiên Tần. Đây không phải một bản văn đạo đức để an ủi hay du ngủ con người, mà là một lưỡi dao lạnh mổ xẻ đến tận xương tủy bản chất quyền lực. Qua từng thiên, người đọc sẽ thấy một Hàn Phi sắc sảo, lạnh lùng, vừa phơi bày sự giả trá của tầng lớp trị quốc, vừa dựng nên một học thuyết tàn nhẫn nhưng hiệu quả đến mức có thể đưa Tần Thủy Hoàng thống nhất Trung Hoa.
+Người cầm quyền không cần hiền và trí, mà cần có quyền thế và địa vị. Hiền và trí không đủ cho đám đông phục tùng, nhưng quyền thế và địa vị thì đủ khuất phục cả người hiền. Cuốn Hàn Phi Tử mà bạn sắp nghe là kết tinh cuối cùng của tư tưởng Pháp gia thời Tiên Tần. Đây không phải một bản văn đạo đức để an ủi hay ru ngủ con người, mà là một lưỡi dao lạnh mổ xẻ đến tận xương tủy bản chất quyền lực. Qua từng thiên, người đọc sẽ thấy một Hàn Phi sắc sảo, lạnh lùng, vừa phơi bày sự giả trá của tầng lớp trị quốc, vừa dựng nên một học thuyết tàn nhẫn nhưng hiệu quả đến mức có thể đưa Tần Thủy Hoàng thống nhất Trung Hoa.
 
 Tác phẩm này không chỉ là một cẩm nang trị quốc mà còn là tấm gương phản chiếu một thời đại đầy biến động, nơi lý tưởng và nhân nghĩa thất bại trước sức mạnh của pháp luật, thế và thuật. Vậy thì câu hỏi còn lại là, chúng ta sẽ đọc Hàn Phi Tử như thế nào? Như một bản ghi chép khắc nghiệt của quá khứ, hay như một cuốn sách vẫn còn nguyên giá trị cảnh tỉnh cho hiện tại, nơi quyền lực và pháp luật tiếp tục thử thách bản chất của con người?
 
