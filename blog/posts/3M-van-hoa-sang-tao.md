@@ -1,7 +1,7 @@
 ---
 lang: vi-VN
-title: HÀNH TRÌNH CỦA 3M: TỪ THẤT BẠI "MỎ RÁC" ĐẾN ĐẾ CHẾ SÁNG TẠO TOÀN CẦU
-description: HÀNH TRÌNH CỦA 3M: TỪ THẤT BẠI "MỎ RÁC" ĐẾN ĐẾ CHẾ SÁNG TẠO TOÀN CẦU
+title: HÀNH TRÌNH CỦA 3M - TỪ THẤT BẠI "MỎ RÁC" ĐẾN ĐẾ CHẾ SÁNG TẠO TOÀN CẦU
+description: HÀNH TRÌNH CỦA 3M - TỪ THẤT BẠI "MỎ RÁC" ĐẾN ĐẾ CHẾ SÁNG TẠO TOÀN CẦU
 date: 2025-11-21
 category:
   - doanh-nghiep

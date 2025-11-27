@@ -1,7 +1,7 @@
 ---
 lang: vi-VN
-title: THAO TÚNG TÂM LÝ: CÁCH THỨC TRẤN AN DƯ LUẬN TRONG THIÊN TAI
-description: THAO TÚNG TÂM LÝ: CÁCH THỨC TRẤN AN DƯ LUẬN TRONG THIÊN TAI
+title: THAO TÚNG TÂM LÝ - CÁCH THỨC TRẤN AN DƯ LUẬN TRONG THIÊN TAI
+description: THAO TÚNG TÂM LÝ - CÁCH THỨC TRẤN AN DƯ LUẬN TRONG THIÊN TAI
 date: 2025-11-21
 category:
   - nguoi-noi-tieng

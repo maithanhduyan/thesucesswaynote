@@ -1,7 +1,7 @@
 ---
 lang: vi-VN
 title: Thất Bại Gần Hết Mọi Thứ và Vẫn Thắng Lớn - Scott Adams
-description: Review Sách: How to Fail at Almost Everything and Still Win Big (Thất Bại Gần Hết Mọi Thứ và Vẫn Thắng Lớn) - Scott Adams
+description: Review Sách - How to Fail at Almost Everything and Still Win Big (Thất Bại Gần Hết Mọi Thứ và Vẫn Thắng Lớn) - Scott Adams
 date: 2025-11-20
 category:
   - doanh-nghiep

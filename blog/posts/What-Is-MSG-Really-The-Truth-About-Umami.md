@@ -1,7 +1,7 @@
 ---
 lang: vi-VN
-title: QUY TRÌNH: SỰ THẬT VỀ BỘT NGỌT (MSG) VÀ NHỮNG TRANH CÃI
-description: QUY TRÌNH: SỰ THẬT VỀ BỘT NGỌT (MSG) VÀ NHỮNG TRANH CÃI
+title: QUY TRÌNH - SỰ THẬT VỀ BỘT NGỌT (MSG) VÀ NHỮNG TRANH CÃI
+description: QUY TRÌNH - SỰ THẬT VỀ BỘT NGỌT (MSG) VÀ NHỮNG TRANH CÃI
 date: 2025-11-21
 category:
   - the-process

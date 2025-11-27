@@ -1,7 +1,7 @@
 ---
 lang: vi-VN
-title: REVIEW SÁCH: BỘ NÃO VÀ CƠ CHẾ KIẾN TẠO HIỆN THỰC
-description: REVIEW SÁCH: BỘ NÃO VÀ CƠ CHẾ KIẾN TẠO HIỆN THỰC
+title: REVIEW SÁCH - BỘ NÃO VÀ CƠ CHẾ KIẾN TẠO HIỆN THỰC
+description: REVIEW SÁCH - BỘ NÃO VÀ CƠ CHẾ KIẾN TẠO HIỆN THỰC
 date: 2025-11-27
 category:
   - training
