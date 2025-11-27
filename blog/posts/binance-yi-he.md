@@ -1,6 +1,6 @@
 ---
 lang: vi-VN
-title: Binance co-founder Yi He - TÂM SỰ CỦA NGƯỜI LÀM NGHỀ: HÀNH TRÌNH, THỬ THÁCH VÀ SỰ TU DƯỠNG
+title: Binance co-founder Yi He - TÂM SỰ CỦA NGƯỜI LÀM NGHỀ - HÀNH TRÌNH, THỬ THÁCH VÀ SỰ TU DƯỠNG
 description: Binance co-founder Yi He
 date: 2025-11-27
 category:
