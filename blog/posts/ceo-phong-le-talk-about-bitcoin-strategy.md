@@ -2,11 +2,14 @@
 lang: vi-VN
 title: The $60 Billion Bitcoin Bet | Strategy CEO Phong Le
 description: The $60 Billion Bitcoin Bet | Strategy CEO Phong Le
-date: 2025-11-27
+date: 2025-11-29
 category:
-  - training
+  - podcast
+  - crypto
 tag:
-  - yi-he
+  - phong-le
+  - strategy
+  - bitcoin
   
 archive: false
 ---

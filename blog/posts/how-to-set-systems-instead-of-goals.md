@@ -1,4 +1,5 @@
 ---
+title: Xây Dựng Hệ Thống, Chinh Phục Kỷ Luật
 date: 2025-09-18
 category:
   - audiobook
