@@ -1,7 +1,7 @@
 ---
 lang: vi-VN
-title: TÓM TẮT SÁCH: BOLD - ĐI LỚN: TƯ DUY CỦA KẺ DÁM THAY ĐỔI THẾ GIỚI
-description: TÓM TẮT SÁCH: BOLD - ĐI LỚN: TƯ DUY CỦA KẺ DÁM THAY ĐỔI THẾ GIỚI
+title: TÓM TẮT SÁCH- BOLD - ĐI LỚN- TƯ DUY CỦA KẺ DÁM THAY ĐỔI THẾ GIỚI
+description: TÓM TẮT SÁCH- BOLD - ĐI LỚN- TƯ DUY CỦA KẺ DÁM THAY ĐỔI THẾ GIỚI
 date:  2025-12-06
 category: 
   -audiobook
