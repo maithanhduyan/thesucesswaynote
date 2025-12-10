@@ -2,8 +2,15 @@
 lang: vi-VN
 title: Dám Buôn Mới Giàu
 description: Video này chia sẻ đạo lý cổ nhân về việc dám kinh doanh và buôn bán để làm giàu chân chính, đồng thời rèn luyện tâm tính và giữ gìn đạo đức giữa dòng đời.
-category: Education
-tags: [cổ nhân kể chuyện, bài học cuộc sống, triết lý kinh doanh, làm giàu, đạo lý, phát triển bản thân]
+category: 
+  - Education
+tags: 
+  - cổ nhân kể chuyện
+  - bài học cuộc sống
+  - triết lý kinh doanh
+  - làm giàu
+  - đạo lý
+  - phát triển bản thân
 date: 2025-12-10
 ---
 

@@ -3,8 +3,14 @@ video_id: A9yQQSOy4hc
 lang: vi-VN
 title: Phim - Mạn Đàm Tâm Kinh (Phim Hoạt Hình - Phim Phật Giáo)
 description: Phim Hoạt Hình - Phim Phật Giáo
-category: Phật giáo
-tags: [Phim Phật Giáo, Tâm Kinh, Bát Nhã, Phật Pháp, Hoạt hình Phật giáo]
+category: 
+  - Phật giáo
+tags: 
+  - Phim Phật Giáo
+  - Tâm Kinh
+  - Bát Nhã
+  - Phật Pháp
+  - Hoạt hình Phật giáo
 date: 2011-10-01 00:00:00
 ---
 
