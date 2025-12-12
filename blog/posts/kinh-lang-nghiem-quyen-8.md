@@ -2,7 +2,8 @@
 lang: vi-VN
 title: Kinh Lăng Nghiêm - Dịch và Lược Giải - Hòa Thượng Thích Duy Lực
 description: Kinh Lăng Nghiêm - Dịch và Lược Giải - Hòa Thượng Thích Duy Lực
-category: "Phật-Giáo"
+category: 
+  - "Phật-Giáo"
 tags: 
   - "Phat-Giao"
   - "Thien-Tong"
