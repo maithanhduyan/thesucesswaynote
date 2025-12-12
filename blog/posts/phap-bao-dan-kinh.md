@@ -4,11 +4,11 @@ title: Kinh Pháp Bảo Đàn - Lục Tổ Huệ Năng (Dịch và Lược giả
 description: Transcript Kinh Pháp Bảo Đàn do Lục Tổ Huệ Năng giảng, Thích Duy Lực dịch và lược giải. Nội dung bao gồm các phẩm Tự, Bát Nhã, và Nghi Vấn.
 category: "Phật Giáo"
 tags: 
-  - "Phat Giao"
-  - "Thien Tong"
-  - "Luc To Hue Nang"
-  - "Thich Duy Luc"
-  - "Kinh Phap Bao Dan"
+  - "Phat-Giao"
+  - "Thien-Tong"
+  - "Luc-To-Hue-Nang"
+  - "Thich-Duy-Luc"
+  - "Kinh-Phap-Bao-Dan"
 date: 2024-12-11
 ---
 # Pháp Bảo Đàn Kinh - Lục Tổ Huệ Năng
