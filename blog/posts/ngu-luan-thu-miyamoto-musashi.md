@@ -2,8 +2,16 @@
 lang: vi-VN
 title: Ngũ Luân Thư - Miyamoto Musashi
 description: Bản dịch tiếng Việt tác phẩm Ngũ Luân Thư của kiếm hào Miyamoto Musashi, do GS. Bùi Thế Cần dịch, trình bày triết lý binh pháp và kiếm đạo.
-category: Võ thuật / Triết học
-tags: [Ngũ Luân Thư, Miyamoto Musashi, Binh pháp, Kiếm đạo, Samurai, Bùi Thế Cần]
+category: 
+  - Võ thuật 
+  - Triết học
+tags: 
+  - Ngũ Luân Thư
+  - Miyamoto Musashi
+  - Binh pháp
+  - Kiếm đạo
+  - Samurai
+  - Bùi Thế Cần
 date: 2025-12-12
 ---
 
