@@ -1,0 +1,13 @@
+[project]
+name = "pdf-to-markdown"
+version = "0.1.0"
+description = "Convert PDF files to Markdown using marker-pdf"
+requires-python = ">=3.10"
+dependencies = [
+    "marker-pdf",
+    "torch",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
