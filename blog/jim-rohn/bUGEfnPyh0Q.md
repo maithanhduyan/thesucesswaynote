@@ -1,7 +1,7 @@
 ---
 ID: bUGEfnPyh0Q
 date: 2025-12-07 14:43:55
-title: Tư Duy Bậc Thầy: Huấn Luyện Tâm Trí Để Thành Công Vượt Bậc Trong Mọi Lĩnh Vực | Động Lực Từ Jim Rohn
+title: "Tư Duy Bậc Thầy: Huấn Luyện Tâm Trí Để Thành Công Vượt Bậc Trong Mọi Lĩnh Vực | Động Lực Từ Jim Rohn"
 
 ---
 

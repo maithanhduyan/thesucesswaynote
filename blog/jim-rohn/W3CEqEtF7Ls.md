@@ -1,7 +1,7 @@
 ---
 ID: W3CEqEtF7Ls
 date: 2025-12-05 13:18:02
-title: Kỹ Năng Giao Tiếp: 90% Giao Tiếp Sai Lầm Mà Không Biết (Kể Cả Bạn) | Động Lực Từ Jim Rohn
+title: "Kỹ Năng Giao Tiếp: 90% Giao Tiếp Sai Lầm Mà Không Biết (Kể Cả Bạn) | Động Lực Từ Jim Rohn"
 
 ---
 

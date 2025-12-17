@@ -1,7 +1,7 @@
 ---
 ID: _O7sMY6NA0k
 date: 2025-12-05
-title: Tư Duy Bậc Thầy - Rèn Luyện Trí Thông Minh Cho Thành Công Của Bạn | Động Lực Từ Jim Rohn
+title: "Tư Duy Bậc Thầy - Rèn Luyện Trí Thông Minh Cho Thành Công Của Bạn | Động Lực Từ Jim Rohn"
 ---
 
 Tư duy bậc thầy là cách rèn luyện trí thông minh để đạt được thành công bền vững. Tôi từng gặp một người rất thông minh. Anh ta có thể giải toán nhanh hơn bất kỳ ai, đọc hết một cuốn sách dày trong ba ngày và phân tích dữ liệu như một nhà khoa học. Tuy nhiên, anh ta lại không thể duy trì một cuộc trò chuyện kéo dài 10 phút mà không khiến người đối diện cảm thấy bị phán xét, cũng như không thể giữ bình tĩnh khi có ai đó bất đồng ý kiến hay xây dựng được một mối quan hệ đủ lâu để tạo dựng niềm tin.

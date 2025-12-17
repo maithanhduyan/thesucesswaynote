@@ -1,7 +1,7 @@
 ---
 ID: LN2_opzJf1M
 date: 2025-12-07 06:45:15
-title: Công Thức Này Sẽ Thay Đổi Mọi Thứ Trong Cuộc Đời Bạn - Kỷ Luật Để Thành Công | Động Lực Từ Jim Rohn
+title: "Công Thức Này Sẽ Thay Đổi Mọi Thứ Trong Cuộc Đời Bạn - Kỷ Luật Để Thành Công | Động Lực Từ Jim Rohn"
 
 ---
 

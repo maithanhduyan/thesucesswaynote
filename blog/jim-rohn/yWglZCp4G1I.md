@@ -1,7 +1,7 @@
 ---
 ID: yWglZCp4G1I
 date: 2025-12-07 17:02:56
-title: Kỹ Năng Giao Tiếp: Những Gì Bạn Nói Sẽ Thay Đổi Cuộc Đời Bạn | Động Lực Từ Jim Rohn
+title: "Kỹ Năng Giao Tiếp: Những Gì Bạn Nói Sẽ Thay Đổi Cuộc Đời Bạn | Động Lực Từ Jim Rohn"
 
 ---
 

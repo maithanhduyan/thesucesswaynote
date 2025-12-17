@@ -1,7 +1,7 @@
 ---
 ID: 0gY0mv_2e6I
 date: 2025-12-06 23:49:04
-title: Chỉ Khi Bạn Muốn Giàu Có, Tiền Bạc Bắt Đầu Chảy Đến - Kỷ Luật Để Làm Giàu | Động Lực Từ Jim Rohn
+title: "Chỉ Khi Bạn Muốn Giàu Có, Tiền Bạc Bắt Đầu Chảy Đến - Kỷ Luật Để Làm Giàu | Động Lực Từ Jim Rohn"
 
 ---
 

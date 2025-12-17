@@ -1,7 +1,7 @@
 ---
 ID: UJBA4Rz7y4s
 date: 2025-12-05 13:23:59
-title: Tư Duy Bậc Thầy: Giàu Hay Nghèo Đến Từ Cách Nghĩ – Câu Chuyện Thành Công | Động Lực Từ Jim Rohn
+title: "Tư Duy Bậc Thầy: Giàu Hay Nghèo Đến Từ Cách Nghĩ – Câu Chuyện Thành Công | Động Lực Từ Jim Rohn"
 
 ---
 

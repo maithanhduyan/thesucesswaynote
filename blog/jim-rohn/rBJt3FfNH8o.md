@@ -1,7 +1,7 @@
 ---
 ID: rBJt3FfNH8o
 date: 2025-12-06 06:31:15
-title: Tư Duy Bậc Thầy: Cách Thành Thạo Bất Kỳ Kỹ Năng Nào Một Cách Nhanh Chóng | Động Lực Từ Jim Rohn
+title: "Tư Duy Bậc Thầy: Cách Thành Thạo Bất Kỳ Kỹ Năng Nào Một Cách Nhanh Chóng | Động Lực Từ Jim Rohn"
 
 ---
 

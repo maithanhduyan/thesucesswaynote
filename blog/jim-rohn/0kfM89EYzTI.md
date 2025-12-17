@@ -1,7 +1,7 @@
 ---
 ID: 0kfM89EYzTI
 date: 2025-12-07 03:58:35
-title: Cách Giáo Dục Tâm Trí Để Hiện Thực Hóa Mọi Ước Mơ - Kỷ Luật Để Thành Công | Động Lực Từ Jim Rohn
+title: "Cách Giáo Dục Tâm Trí Để Hiện Thực Hóa Mọi Ước Mơ - Kỷ Luật Để Thành Công | Động Lực Từ Jim Rohn"
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 ID: iRFKPhfP4n4
 date: 2025-12-07 11:19:43
-title: Tư Duy Bậc Thầy: Cách Nói Chuyện Với Tâm Trí Để Thu Hút Sự Giàu Có Vô Hạn | Động Lực Từ Jim Rohn
+title: "Tư Duy Bậc Thầy: Cách Nói Chuyện Với Tâm Trí Để Thu Hút Sự Giàu Có Vô Hạn | Động Lực Từ Jim Rohn"
 
 ---
 

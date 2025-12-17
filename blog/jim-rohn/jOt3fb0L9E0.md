@@ -1,6 +1,6 @@
 ---
 ID: jOt3fb0L9E0
-title: Tư Duy Làm Giàu: Biến Sỏi Đá Thành Vàng – Câu Chuyện Thành Công | Động Lực Từ Jim Rohn
+title: "Tư Duy Làm Giàu: Biến Sỏi Đá Thành Vàng – Câu Chuyện Thành Công | Động Lực Từ Jim Rohn"
 ---
 
 Chân lý làm giàu biến sỏi đá thành vàng. Mỗi người sinh ra trong một gia đình khác nhau, lớn lên với một hoàn cảnh khác nhau và bắt đầu cuộc đời với một hành trang không giống nhau. Có người mang theo vốn liếng, tri thức, sự hậu thuẫn. Có người chỉ mang theo ước mơ và đôi bàn tay trắng.

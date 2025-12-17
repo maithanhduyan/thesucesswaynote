@@ -1,7 +1,7 @@
 ---
 ID: 0pfBSPAE5vg
 date: 2025-12-06 09:21:33
-title: Kỹ Năng Giao Tiếp: Thay Đổi Cách Nói Chuyện Để Dễ Dàng Thành Công Và Giàu Có | Động Lực Từ Jim Rohn
+title: "Kỹ Năng Giao Tiếp: Thay Đổi Cách Nói Chuyện Để Dễ Dàng Thành Công Và Giàu Có | Động Lực Từ Jim Rohn"
 
 ---
 

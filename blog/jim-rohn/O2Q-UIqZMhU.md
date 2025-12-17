@@ -1,7 +1,7 @@
 ---
 ID: O2Q-UIqZMhU
 date: 2025-12-05 13:18:24
-title: Tư Duy Ngược: Tại Sao Người Giàu Luôn Làm Ngược Lại Với Đám Đông? | Tư Duy Làm Giàu | Jim Rohn
+title: "Tư Duy Ngược: Tại Sao Người Giàu Luôn Làm Ngược Lại Với Đám Đông? | Tư Duy Làm Giàu | Jim Rohn"
 
 ---
 

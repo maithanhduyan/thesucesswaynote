@@ -1,7 +1,7 @@
 ---
 ID: VT-iCBC4U_A
 date: 2025-12-05 13:19:10
-title: Tư Duy Bậc Thầy: Tập Trung Cho Đến Khi Thành Công - Kỷ Luật Để Làm Giàu | Động Lực Từ Jim Rohn
+title: "Tư Duy Bậc Thầy: Tập Trung Cho Đến Khi Thành Công - Kỷ Luật Để Làm Giàu | Động Lực Từ Jim Rohn"
 
 ---
 

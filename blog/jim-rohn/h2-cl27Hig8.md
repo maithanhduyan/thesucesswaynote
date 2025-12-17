@@ -1,7 +1,7 @@
 ---
 ID: h2-cl27Hig8
 date: 2025-12-06 17:40:55
-title: Kỹ Năng Giao Tiếp: Nói Điều Này Với Chính Mình Sẽ Xoay Chuyển Cả Cuộc Đời Bạn | Động Lực Từ Jim Rohn
+title: "Kỹ Năng Giao Tiếp: Nói Điều Này Với Chính Mình Sẽ Xoay Chuyển Cả Cuộc Đời Bạn | Động Lực Từ Jim Rohn"
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 ID: 1kX0VQd73J4
 date: 2025-12-06 18:14:03
-title: Muốn Giàu Có Bắt Buộc Phải Biết Quy Tắc Của Tiền Bạc - Kỷ Luật Để Làm Giàu | Động Lực Từ Jim Rohn
+title: "Muốn Giàu Có Bắt Buộc Phải Biết Quy Tắc Của Tiền Bạc - Kỷ Luật Để Làm Giàu | Động Lực Từ Jim Rohn"
 
 ---
 

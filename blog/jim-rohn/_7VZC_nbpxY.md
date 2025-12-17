@@ -1,7 +1,7 @@
 ---
 ID: _7VZC_nbpxY
 date: 2025-12-06 19:33:49
-title: Suy Nghĩ Tích Cực Sẽ Thay Đổi Cuộc Đời Bạn Mãi Mãi - Kỷ Luật Để Thành Công | Động Lực Từ Jim Rohn
+title: "Suy Nghĩ Tích Cực Sẽ Thay Đổi Cuộc Đời Bạn Mãi Mãi - Kỷ Luật Để Thành Công | Động Lực Từ Jim Rohn"
 
 ---
 

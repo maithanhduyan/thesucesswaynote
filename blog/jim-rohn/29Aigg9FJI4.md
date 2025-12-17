@@ -1,7 +1,7 @@
 ---
 ID: 29Aigg9FJI4
 date: 2025-12-07 13:15:39
-title: Kỹ Năng Giao Tiếp: Cách Nói Chuyện Để Đạt Được Điều Bạn Muốn Từ Bất Kỳ Ai | Động Lực Từ Jim Rohn
+title: "Kỹ Năng Giao Tiếp: Cách Nói Chuyện Để Đạt Được Điều Bạn Muốn Từ Bất Kỳ Ai | Động Lực Từ Jim Rohn"
 
 ---
 

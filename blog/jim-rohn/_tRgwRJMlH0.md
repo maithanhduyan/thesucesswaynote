@@ -1,7 +1,7 @@
 ---
 ID: _tRgwRJMlH0
 date: 2025-12-06 22:20:51
-title: Rèn Luyện Trí Óc Mỗi Sáng Để Chiến Thắng Mọi Hoàn Cảnh, Kỷ Luật Để Thành Công | Động Lực Từ Jim Rohn
+title: "Rèn Luyện Trí Óc Mỗi Sáng Để Chiến Thắng Mọi Hoàn Cảnh, Kỷ Luật Để Thành Công | Động Lực Từ Jim Rohn"
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 ID: PqfUVg_o5qs
 date: 2025-12-05 19:43:26
-title: Kỹ Năng Giao Tiếp: Nói Chuyện Kiểu Này Không Bao Giờ Bị Ai Ghét | Động Lực Từ Jim Rohn
+title: "Kỹ Năng Giao Tiếp: Nói Chuyện Kiểu Này Không Bao Giờ Bị Ai Ghét | Động Lực Từ Jim Rohn"
 
 ---
 
