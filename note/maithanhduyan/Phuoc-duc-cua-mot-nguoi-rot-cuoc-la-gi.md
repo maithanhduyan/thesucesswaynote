@@ -51,3 +51,8 @@ Tôi viết những lời này không phải để khua môi, múa mép hay trao
 Tôi chỉ là muốn nhắc nhở bản thân. 
 Chia sẻ nó để người khác cũng nhắc nhở tôi cùng đạt được sự thịnh vượng chung.
 Mai sau con cháu có đọc được hãy cố gắng chiêm nghiệm để hiểu các bậc tiền nhân suy nghĩ như thế nào về cách làm người, làm kinh doanh, cách học tập và vươn lên trong cuộc sống.
+
+
+--- 
+Đọc lại vào Ngày 19 tháng 12 năm 2025
+Bất muội nhân quả.

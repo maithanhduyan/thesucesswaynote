@@ -28,3 +28,8 @@ Lý do mà con muốn đi Nhật cũng chỉ đơn giản như vậy thôi.
 
 **Con yêu của mẹ,  
 Kèo**
+
+
+--- 
+Đọc lại vào Ngày 19 tháng 12 năm 2025 (38 tuổi)
+Cảm xúc nhất thời. Có lẽ uống quá nhiều coffee, nên dopamine nhiều quá có cảm hứng sáng tạo.

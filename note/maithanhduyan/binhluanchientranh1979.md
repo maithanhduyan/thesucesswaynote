@@ -48,3 +48,9 @@ Chú thích:
 (**) "Hai đều phàm" :
 1. Phàm là quyết sách của Mao Trạch Đông phải kiên quyết bảo vệ.
 2. Phàm là chỉ thị của Mao Trạch Đông phải trước sau tuân thủ theo.
+
+
+
+---
+Ngày 19 tháng 12 năm 2025
+Không còn thấy ý nghĩa bài viết này nữa. Xem như chẳng qua là tập luyện bình luận. 
