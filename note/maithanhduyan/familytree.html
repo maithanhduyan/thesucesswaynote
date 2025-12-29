@@ -1,0 +1,1434 @@
+<html>
+
+<body>
+  <div style="position:fixed;top:10px;right:10px;z-index:9999;display:flex;gap:10px;">
+    <button onclick="exportData()"
+      style="padding:10px 20px;background:#4CAF50;color:white;border:none;border-radius:5px;cursor:pointer;font-weight:bold;">📋
+      Export JSON</button>
+    <button onclick="clearLocalStorage();location.reload();"
+      style="padding:10px 20px;background:#f44336;color:white;border:none;border-radius:5px;cursor:pointer;font-weight:bold;">🗑️
+      Reset</button>
+  </div>
+  <script src="https://balkan.app/js/familytree.js"></script>
+  <div id="tree" />
+  <script>
+
+    var family = new FamilyTree(document.getElementById("tree"), {
+      mouseScrool: FamilyTree.none,
+      mode: 'dark',
+      template: 'hugo',
+      nodeBinding: {
+        field_0: "name",
+        field_1: 'born',
+        img_0: 'photo'
+      },
+      nodeMenu: {
+        edit: { text: 'Edit' },
+        details: { text: 'Details' },
+      },
+      nodeTreeMenu: true,
+      roots: [],
+      editForm: {
+        titleBinding: "name",
+        photoBinding: "photo",
+        addMoreBtn: 'Add element',
+        addMore: 'Add more elements',
+        addMoreFieldName: 'Element name',
+        generateElementsFromFields: false,
+        elements: [
+          { type: 'textbox', label: 'Full Name', binding: 'name' },
+          { type: 'textbox', label: 'Description', binding: 'description' },
+          { type: 'textbox', label: 'Email Address', binding: 'email' },
+          [
+            { type: 'textbox', label: 'Phone', binding: 'phone' },
+            { type: 'date', label: 'Date Of Birth', binding: 'born' }
+          ],
+          [
+            { type: 'select', options: [{ value: 'bg', text: 'Việt Nam' }], label: 'Country', binding: 'country' },
+            { type: 'textbox', label: 'City', binding: 'city' },
+          ],
+          { type: 'textbox', label: 'Photo Url', binding: 'photo', btn: 'Upload' },
+        ]
+      },
+      nodes: []
+    });
+
+    family.on('field', function (sender, args) {
+      if (args.name == 'born') {
+        var date = new Date(args.value);
+        // args.value = date.toLocaleDateString();
+      }
+    });
+
+    // Hàm xuất data ra console - gọi exportData() trong console
+    function exportData() {
+      var nodes = family.config.nodes;
+      // console.log('=== FAMILY TREE DATA ===');
+      console.log(JSON.stringify(nodes, null, 2));
+      // console.log('========================');
+      // console.log('Copy JSON ở trên và paste vào family.load([...]) để lưu lại!');
+      return nodes;
+    }
+
+    // Hiển thị hướng dẫn khi load trang
+    console.log('📌 Để xuất data, gõ: exportData()');
+    console.log('📌 Hoặc nhấn nút "Export JSON" trên trang');
+    console.log('📌 Data tự động lưu vào localStorage!');
+
+    // AUTO-SAVE: Lưu vào localStorage mỗi khi có thay đổi
+    family.onUpdateNode(function (args) {
+      saveToLocalStorage();
+    });
+
+    function saveToLocalStorage() {
+      var nodes = family.config.nodes;
+      localStorage.setItem('familyTreeData', JSON.stringify(nodes));
+      console.log('✅ Đã auto-save vào localStorage!');
+    }
+
+    function clearLocalStorage() {
+      localStorage.removeItem('familyTreeData');
+      console.log('🗑️ Đã xóa data trong localStorage!');
+    }
+
+    // Default data
+    var defaultData =
+      [
+        {
+          "id": "gen0",
+          "name": "Mai Văn Sĩ",
+          "gender": "male",
+          "born": "",
+          "ddate": "",
+          "description": "s",
+          "email": "",
+          "phone": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": [
+            "_bmod"
+          ]
+        },
+        {
+          "pids": [
+            "gen0"
+          ],
+          "gender": "female",
+          "id": "_bmod",
+          "name": "Thái Nguyệt Cầm",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": ""
+        },
+        {
+          "mid": "_bmod",
+          "fid": "gen0",
+          "gender": "male",
+          "id": "_vqmy",
+          "name": "Mai Công Trứ",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": [
+            "_97xm"
+          ]
+        },
+        {
+          "pids": [
+            "_vqmy"
+          ],
+          "gender": "female",
+          "id": "_97xm",
+          "name": "Trần Thị Tư",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": ""
+        },
+        {
+          "mid": "_97xm",
+          "fid": "_vqmy",
+          "gender": "male",
+          "id": "_6vm5",
+          "name": "Mai Thành Phương",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": [
+            "_qjgn"
+          ]
+        },
+        {
+          "mid": "_97xm",
+          "fid": "_vqmy",
+          "gender": "female",
+          "id": "_0i84",
+          "name": "Mai Hảo",
+          "description": "Cô Ba Hảo",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": []
+        },
+        {
+          "mid": "_97xm",
+          "fid": "_vqmy",
+          "gender": "female",
+          "id": "_yiqr",
+          "name": "Mai Thị Lang",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": [
+            "_95kp"
+          ]
+        },
+        {
+          "mid": "_97xm",
+          "fid": "_vqmy",
+          "gender": "female",
+          "id": "_suqv",
+          "name": "Mai Thị Phúc",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": [
+            "_mszv"
+          ]
+        },
+        {
+          "mid": "_97xm",
+          "fid": "_vqmy",
+          "gender": "female",
+          "id": "_aj2h",
+          "name": "Mai Thị Diệu",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": [
+            "_8qi8"
+          ]
+        },
+        {
+          "mid": "_97xm",
+          "fid": "_vqmy",
+          "gender": "male",
+          "id": "_nxrz",
+          "name": "Mai Thành An",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": [
+            "_aitj"
+          ]
+        },
+        {
+          "pids": [
+            "_6vm5"
+          ],
+          "gender": "female",
+          "id": "_qjgn",
+          "name": "Bà Hoảnh",
+          "description": "Bác Hai",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": ""
+        },
+        {
+          "mid": "_qjgn",
+          "fid": "_6vm5",
+          "gender": "male",
+          "id": "_czj4",
+          "name": "Mai Chí Hướng",
+          "description": "Anh Hai Hướng",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": [
+            "_dvjc"
+          ]
+        },
+        {
+          "mid": "_qjgn",
+          "fid": "_6vm5",
+          "gender": "male",
+          "id": "_6rl8",
+          "name": "Mai Chí Đạt",
+          "description": "Anh Ba Đạt",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": [
+            "_f66w"
+          ]
+        },
+        {
+          "mid": "_qjgn",
+          "fid": "_6vm5",
+          "gender": "female",
+          "id": "_xtze",
+          "name": "Mai Minh Hiếu",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": [
+            "_hecu"
+          ]
+        },
+        {
+          "mid": "_qjgn",
+          "fid": "_6vm5",
+          "gender": "female",
+          "id": "_hg6g",
+          "name": "Mai Minh Điền",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": [
+            "_xvyz"
+          ]
+        },
+        {
+          "mid": "_qjgn",
+          "fid": "_6vm5",
+          "gender": "male",
+          "id": "_4szw",
+          "name": "Mai Chí Trung",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": []
+        },
+        {
+          "pids": [
+            "_yiqr"
+          ],
+          "gender": "male",
+          "id": "_95kp",
+          "name": "Dượng Tư - Tuấn",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": ""
+        },
+        {
+          "mid": "_yiqr",
+          "fid": "_95kp",
+          "gender": "female",
+          "id": "_lpyf",
+          "name": "Chị Hai Quýt",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": [
+            "_cakk"
+          ]
+        },
+        {
+          "mid": "_yiqr",
+          "fid": "_95kp",
+          "gender": "male",
+          "id": "_9cja",
+          "name": "Anh Ba Khanh",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": [
+            "_43zc"
+          ]
+        },
+        {
+          "mid": "_95kp",
+          "fid": "_yiqr",
+          "gender": "female",
+          "id": "_csas",
+          "name": "Chị Diễm",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": []
+        },
+        {
+          "mid": "_95kp",
+          "fid": "_yiqr",
+          "gender": "male",
+          "id": "_xup2",
+          "name": "Anh Khánh",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": [
+            "_75ve"
+          ]
+        },
+        {
+          "pids": [
+            "_suqv"
+          ],
+          "gender": "male",
+          "id": "_mszv",
+          "name": "Nguyễn Hoài Tâm",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": ""
+        },
+        {
+          "mid": "_suqv",
+          "fid": "_mszv",
+          "gender": "male",
+          "id": "_1o2l",
+          "name": "Nguyễn Hoài Đức",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": []
+        },
+        {
+          "mid": "_suqv",
+          "fid": "_mszv",
+          "gender": "female",
+          "id": "_cr00",
+          "name": "Nguyễn Hoài Xuân",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": []
+        },
+        {
+          "mid": "_suqv",
+          "fid": "_mszv",
+          "gender": "female",
+          "id": "_qvjn",
+          "name": "Nguyễn Xuân Mai",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": []
+        },
+        {
+          "pids": [
+            "_aj2h"
+          ],
+          "gender": "male",
+          "id": "_8qi8",
+          "name": "Dượng Năm",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": ""
+        },
+        {
+          "mid": "_aj2h",
+          "fid": "_8qi8",
+          "gender": "male",
+          "id": "_ktdx",
+          "name": "Nguyễn Thành Nam",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": []
+        },
+        {
+          "mid": "_aj2h",
+          "fid": "_8qi8",
+          "gender": "female",
+          "id": "_lm99",
+          "name": "Nguyễn Thị Ánh Chi",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": []
+        },
+        {
+          "pids": [
+            "_nxrz"
+          ],
+          "gender": "female",
+          "id": "_aitj",
+          "name": "Nguyễn Thị Lệ Hoa",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "fid": "_s5d1",
+          "mid": "_hex6"
+        },
+        {
+          "gender": "male",
+          "id": "_s5d1",
+          "name": "Nguyễn Văn Lũy",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": [
+            "_hex6"
+          ]
+        },
+        {
+          "gender": "female",
+          "pids": [
+            "_s5d1"
+          ],
+          "id": "_hex6",
+          "name": "Nguyễn Thị Ngẫu",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": ""
+        },
+        {
+          "mid": "_nxrz",
+          "fid": "_aitj",
+          "gender": "female",
+          "id": "_ix4h",
+          "name": "Mai Thụy Thúy An",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": [
+            "_bwed"
+          ]
+        },
+        {
+          "mid": "_aitj",
+          "fid": "_nxrz",
+          "gender": "male",
+          "id": "_n4o9",
+          "name": "Mai Thành Duy An",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": [
+            "_4a3k"
+          ]
+        },
+        {
+          "pids": [
+            "_czj4"
+          ],
+          "gender": "female",
+          "id": "_dvjc",
+          "name": "Chị Hai Lê",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": ""
+        },
+        {
+          "mid": "_dvjc",
+          "fid": "_czj4",
+          "gender": "male",
+          "id": "_w4zj",
+          "name": "Mai Chí Duy",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": []
+        },
+        {
+          "mid": "_dvjc",
+          "fid": "_czj4",
+          "gender": "female",
+          "id": "_52ge",
+          "name": "Mai Yến Nhi",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": []
+        },
+        {
+          "pids": [
+            "_6rl8"
+          ],
+          "gender": "female",
+          "id": "_f66w",
+          "name": "Chị Ba Êm",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": ""
+        },
+        {
+          "mid": "_f66w",
+          "fid": "_6rl8",
+          "gender": "female",
+          "id": "_y4hp",
+          "name": "Mai Minh Nguyệt",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": []
+        },
+        {
+          "mid": "_f66w",
+          "fid": "_6rl8",
+          "gender": "female",
+          "id": "_mdga",
+          "name": "Mai Ngọc Hương",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": []
+        },
+        {
+          "pids": [
+            "_xtze"
+          ],
+          "gender": "male",
+          "id": "_hecu",
+          "name": "Anh Tư Nhân",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": ""
+        },
+        {
+          "pids": [
+            "_hg6g"
+          ],
+          "gender": "male",
+          "id": "_xvyz",
+          "name": "Anh Năm Nhuận",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": ""
+        },
+        {
+          "mid": "_hg6g",
+          "fid": "_xvyz",
+          "gender": "male",
+          "id": "_d614",
+          "name": "Ái",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": []
+        },
+        {
+          "pids": [
+            "_lpyf"
+          ],
+          "gender": "male",
+          "id": "_cakk",
+          "name": "Anh Hai",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": ""
+        },
+        {
+          "pids": [
+            "_9cja"
+          ],
+          "gender": "female",
+          "id": "_43zc",
+          "name": "Chị Ba Lệ",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": ""
+        },
+        {
+          "pids": [
+            "_xup2"
+          ],
+          "gender": "female",
+          "id": "_75ve",
+          "name": "Chị Phước",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": ""
+        },
+        {
+          "pids": [
+            "_ix4h"
+          ],
+          "gender": "male",
+          "id": "_bwed",
+          "name": "Nguyễn Y Ẩn",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "mid": "_5feu",
+          "fid": "_dp5f"
+        },
+        {
+          "mid": "_ix4h",
+          "fid": "_bwed",
+          "gender": "female",
+          "id": "_yzp1",
+          "name": "An Thuyên",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": []
+        },
+        {
+          "mid": "_ix4h",
+          "fid": "_bwed",
+          "gender": "male",
+          "id": "_hw9c",
+          "name": "Tấn Khoa",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": []
+        },
+        {
+          "mid": "_ix4h",
+          "fid": "_bwed",
+          "gender": "female",
+          "id": "_1fgi",
+          "name": "Nếp",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": []
+        },
+        {
+          "mid": "_ix4h",
+          "fid": "_bwed",
+          "gender": "female",
+          "id": "_b5m3",
+          "name": "Na",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": []
+        },
+        {
+          "mid": "_ix4h",
+          "fid": "_bwed",
+          "gender": "male",
+          "id": "_8vlb",
+          "name": "Út Em",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": []
+        },
+        {
+          "mid": "_ix4h",
+          "fid": "_bwed",
+          "gender": "male",
+          "id": "_4vwz",
+          "name": "Út Đủ",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": []
+        },
+        {
+          "pids": [
+            "_n4o9"
+          ],
+          "gender": "female",
+          "id": "_4a3k",
+          "name": "Trần Thị Phương Thi",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "mid": "_67my"
+        },
+        {
+          "mid": "_hex6",
+          "fid": "_s5d1",
+          "gender": "female",
+          "id": "_1y9f",
+          "name": "Nguyễn Ngọc Lang",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": [
+            "_fc52"
+          ]
+        },
+        {
+          "mid": "_hex6",
+          "fid": "_s5d1",
+          "gender": "male",
+          "id": "_pewu",
+          "name": "Nguyễn Ngọc Lễ",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": [
+            "_ds11"
+          ]
+        },
+        {
+          "mid": "_hex6",
+          "fid": "_s5d1",
+          "gender": "male",
+          "id": "_s1ww",
+          "name": "Nguyễn Ngọc Luận",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": [
+            "_p6ng"
+          ]
+        },
+        {
+          "mid": "_hex6",
+          "fid": "_s5d1",
+          "gender": "female",
+          "id": "_iazs",
+          "name": "Nguyễn Ngọc Loan",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": [
+            "_8bnp"
+          ]
+        },
+        {
+          "mid": "_hex6",
+          "fid": "_s5d1",
+          "gender": "female",
+          "id": "_utwp",
+          "name": "Nguyễn Ngọc Liễu",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": []
+        },
+        {
+          "mid": "_hex6",
+          "fid": "_s5d1",
+          "gender": "male",
+          "id": "_kyvl",
+          "name": "Cậu Tám",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": []
+        },
+        {
+          "mid": "_hex6",
+          "fid": "_s5d1",
+          "gender": "female",
+          "id": "_op6i",
+          "name": "Nguyễn Thị Hương Lan",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": []
+        },
+        {
+          "mid": "_hex6",
+          "fid": "_s5d1",
+          "gender": "female",
+          "id": "_18qb",
+          "name": "Nguyễn Thị Minh Lý",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": [
+            "_c7j3"
+          ]
+        },
+        {
+          "pids": [
+            "_1y9f"
+          ],
+          "gender": "male",
+          "id": "_fc52",
+          "name": "Lê Thế Hoàng",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": ""
+        },
+        {
+          "mid": "_1y9f",
+          "fid": "_fc52",
+          "gender": "male",
+          "id": "_mozp",
+          "name": "Lê Bảo Hoàng",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": [
+            "_sais"
+          ]
+        },
+        {
+          "pids": [
+            "_mozp"
+          ],
+          "gender": "female",
+          "id": "_sais",
+          "name": "Hồ Thùy Oanh",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": ""
+        },
+        {
+          "mid": "_mozp",
+          "fid": "_sais",
+          "gender": "male",
+          "id": "_dsll",
+          "name": "BULL",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": []
+        },
+        {
+          "mid": "_mozp",
+          "fid": "_sais",
+          "gender": "male",
+          "id": "_ura4",
+          "name": "JERRY",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": []
+        },
+        {
+          "pids": [
+            "_pewu"
+          ],
+          "gender": "female",
+          "id": "_ds11",
+          "name": "Mợ Tư",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": ""
+        },
+        {
+          "mid": "_ds11",
+          "fid": "_pewu",
+          "gender": "female",
+          "id": "_medl",
+          "name": "Nguyễn Thúy Lam",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": []
+        },
+        {
+          "pids": [
+            "_s1ww"
+          ],
+          "gender": "female",
+          "id": "_p6ng",
+          "name": "Mợ Năm - Bích",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": ""
+        },
+        {
+          "mid": "_p6ng",
+          "fid": "_s1ww",
+          "gender": "male",
+          "id": "_06b1",
+          "name": "Nguyễn Minh Luân",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": []
+        },
+        {
+          "mid": "_s1ww",
+          "fid": "_p6ng",
+          "gender": "male",
+          "id": "_vd6l",
+          "name": "Nguyễn Minh Vũ",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": []
+        },
+        {
+          "pids": [
+            "_iazs"
+          ],
+          "gender": "male",
+          "id": "_8bnp",
+          "name": "Lê Văn Hùng",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": ""
+        },
+        {
+          "mid": "_8bnp",
+          "fid": "_iazs",
+          "gender": "male",
+          "id": "_umwb",
+          "name": "Lê Thanh Tuấn",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": []
+        },
+        {
+          "mid": "_iazs",
+          "fid": "_8bnp",
+          "gender": "male",
+          "id": "_t6d5",
+          "name": "Lê Tường Quân",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": []
+        },
+        {
+          "pids": [
+            "_18qb"
+          ],
+          "gender": "male",
+          "id": "_c7j3",
+          "name": "Nguyễn Ngọc Hiếu",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": ""
+        },
+        {
+          "mid": "_18qb",
+          "fid": "_c7j3",
+          "gender": "male",
+          "id": "_zdwa",
+          "name": "Nguyễn Hoàng Sơn",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": []
+        },
+        {
+          "mid": "_18qb",
+          "fid": "_c7j3",
+          "gender": "male",
+          "id": "_s82a",
+          "name": "Nguyễn Hoàng Nhân",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": []
+        },
+        {
+          "mid": "_43zc",
+          "fid": "_9cja",
+          "gender": "female",
+          "id": "_zqlz",
+          "name": "Hằng",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": []
+        },
+        {
+          "mid": "_43zc",
+          "fid": "_9cja",
+          "gender": "male",
+          "id": "_cqt3",
+          "name": "Khang",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": []
+        },
+        {
+          "mid": "_75ve",
+          "fid": "_xup2",
+          "gender": "male",
+          "id": "_ukt1",
+          "name": "Bảo Duy",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": []
+        },
+        {
+          "mid": "_75ve",
+          "fid": "_xup2",
+          "gender": "male",
+          "id": "_1hwv",
+          "name": "Em Bảo Duy",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": []
+        },
+        {
+          "gender": "female",
+          "id": "_67my",
+          "name": "Võ Thị Mai",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": []
+        },
+        {
+          "gender": "female",
+          "id": "_5feu",
+          "name": "Nguyễn Thị Huẩn",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": [
+            "_dp5f"
+          ]
+        },
+        {
+          "gender": "male",
+          "pids": [
+            "_5feu"
+          ],
+          "id": "_dp5f",
+          "name": "Nguyễn Tấn Lực",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": ""
+        },
+        {
+          "mid": "_5feu",
+          "fid": "_dp5f",
+          "gender": "female",
+          "id": "_5q4x",
+          "name": "Nguyễn Hiền Ni",
+          "description": "",
+          "email": "",
+          "phone": "",
+          "born": "",
+          "country": "bg",
+          "city": "",
+          "photo": "",
+          "pids": []
+        }
+      ];
+
+    // Load từ localStorage nếu có, không thì dùng defaultData
+    var savedData = localStorage.getItem('familyTreeData');
+    var dataToLoad = savedData ? JSON.parse(savedData) : defaultData;
+
+    family.load(dataToLoad);
+
+    if (savedData) {
+      console.log('📂 Đã load data từ localStorage!');
+    } else {
+      console.log('📂 Dùng data mặc định.');
+    }
+  </script>
+</body>
+
+</html>
