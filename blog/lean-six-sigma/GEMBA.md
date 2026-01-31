@@ -6,7 +6,7 @@ tags: ["Lean Six Sigma", "GEMBA", "Quản lý", "Ra quyết định"]
 
 date: 2026-01-31
 ---
-
+[![Gemba](https://maithanhduyan.github.io/thesucesswaynote/media/gemba.jpg)](https://maithanhduyan.github.io/thesucesswaynote/media/gemba.jpg)
 Đây là **một câu chuyện liền mạch – vừa xưa vừa nay – để chạm vào cốt lõi của GEMBA**: nơi sự thật sinh ra quyết định, không phải bàn giấy.
 
 ---
